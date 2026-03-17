@@ -1,0 +1,1837 @@
+# Time: 2026-03-17 08:41:13
+# Sources:
+#    /domain-list-community/data/category-ads
+#    /domain-list-community/data/category-ads-ir
+#    /domain-list-community/data/acfun @ads
+#    /domain-list-community/data/adobe @ads
+#    /domain-list-community/data/adobe-activation @ads
+#    /domain-list-community/data/typekit @ads
+#    /domain-list-community/data/alibaba @ads
+#    /domain-list-community/data/9game @ads
+#    /domain-list-community/data/alibabacloud @ads
+#    /domain-list-community/data/aliyun @ads
+#    /domain-list-community/data/aliyun-drive @ads
+#    /domain-list-community/data/amap @ads
+#    /domain-list-community/data/cainiao @ads
+#    /domain-list-community/data/dingtalk @ads
+#    /domain-list-community/data/eleme @ads
+#    /domain-list-community/data/teambition @ads
+#    /domain-list-community/data/uc @ads
+#    /domain-list-community/data/umeng @ads
+#    /domain-list-community/data/youku @ads
+#    /domain-list-community/data/amazon @ads
+#    /domain-list-community/data/amazontrust @ads
+#    /domain-list-community/data/aws @ads
+#    /domain-list-community/data/aws-cn @ads
+#    /domain-list-community/data/imdb @ads
+#    /domain-list-community/data/kindle @ads
+#    /domain-list-community/data/primevideo @ads
+#    /domain-list-community/data/wholefoodsmarket @ads
+#    /domain-list-community/data/apple @ads
+#    /domain-list-community/data/apple-dev @ads
+#    /domain-list-community/data/swift @ads
+#    /domain-list-community/data/apple-pki @ads
+#    /domain-list-community/data/apple-tvplus @ads
+#    /domain-list-community/data/apple-update @ads
+#    /domain-list-community/data/beats @ads
+#    /domain-list-community/data/icloud @ads
+#    /domain-list-community/data/icloudprivaterelay @ads
+#    /domain-list-community/data/itunes @ads
+#    /domain-list-community/data/baidu @ads
+#    /domain-list-community/data/zuoyebang @ads
+#    /domain-list-community/data/bytedance @ads
+#    /domain-list-community/data/bytedance-ai-!cn @ads
+#    /domain-list-community/data/dola @ads
+#    /domain-list-community/data/doubao @ads
+#    /domain-list-community/data/douyin @ads
+#    /domain-list-community/data/fqnovel @ads
+#    /domain-list-community/data/juejin @ads
+#    /domain-list-community/data/lark @ads
+#    /domain-list-community/data/feishu @ads
+#    /domain-list-community/data/lark-global @ads
+#    /domain-list-community/data/tiktok @ads
+#    /domain-list-community/data/trae @ads
+#    /domain-list-community/data/volcengine @ads
+#    /domain-list-community/data/dongchedi @ads
+#    /domain-list-community/data/cctv @ads
+#    /domain-list-community/data/disney @ads
+#    /domain-list-community/data/abc @ads
+#    /domain-list-community/data/bamtech @ads
+#    /domain-list-community/data/espn @ads
+#    /domain-list-community/data/hotstar @ads
+#    /domain-list-community/data/marvel @ads
+#    /domain-list-community/data/nationalgeographic @ads
+#    /domain-list-community/data/starplus @ads
+#    /domain-list-community/data/dmm @ads
+#    /domain-list-community/data/dmm-porn @ads
+#    /domain-list-community/data/duolingo @ads
+#    /domain-list-community/data/gamersky @ads
+#    /domain-list-community/data/google @ads
+#    /domain-list-community/data/android @ads
+#    /domain-list-community/data/blogspot @ads
+#    /domain-list-community/data/dart @ads
+#    /domain-list-community/data/fastlane @ads
+#    /domain-list-community/data/firebase @ads
+#    /domain-list-community/data/flutter @ads
+#    /domain-list-community/data/golang @ads
+#    /domain-list-community/data/google-deepmind @ads
+#    /domain-list-community/data/google-gemini @ads
+#    /domain-list-community/data/google-play @ads
+#    /domain-list-community/data/google-registry @ads
+#    /domain-list-community/data/google-scholar @ads
+#    /domain-list-community/data/google-trust-services @ads
+#    /domain-list-community/data/googlefcm @ads
+#    /domain-list-community/data/kaggle @ads
+#    /domain-list-community/data/opensourceinsights @ads
+#    /domain-list-community/data/polymer @ads
+#    /domain-list-community/data/v8 @ads
+#    /domain-list-community/data/youtube @ads
+#    /domain-list-community/data/hetzner @ads
+#    /domain-list-community/data/hunantv @ads
+#    /domain-list-community/data/iqiyi @ads
+#    /domain-list-community/data/jd @ads
+#    /domain-list-community/data/kuaishou @ads
+#    /domain-list-community/data/kugou @ads
+#    /domain-list-community/data/le @ads
+#    /domain-list-community/data/meta @ads
+#    /domain-list-community/data/facebook @ads
+#    /domain-list-community/data/facebook-dev @ads
+#    /domain-list-community/data/instagram @ads
+#    /domain-list-community/data/messenger @ads
+#    /domain-list-community/data/oculus @ads
+#    /domain-list-community/data/threads @ads
+#    /domain-list-community/data/whatsapp @ads
+#    /domain-list-community/data/microsoft @ads
+#    /domain-list-community/data/azure @ads
+#    /domain-list-community/data/bing @ads
+#    /domain-list-community/data/github @ads
+#    /domain-list-community/data/github-copilot @ads
+#    /domain-list-community/data/npmjs @ads
+#    /domain-list-community/data/microsoft-dev @ads
+#    /domain-list-community/data/microsoft-pki @ads
+#    /domain-list-community/data/msn @ads
+#    /domain-list-community/data/onedrive @ads
+#    /domain-list-community/data/xbox @ads
+#    /domain-list-community/data/asobo @ads
+#    /domain-list-community/data/bethesda @ads
+#    /domain-list-community/data/forza @ads
+#    /domain-list-community/data/mojang @ads
+#    /domain-list-community/data/mihoyo @ads
+#    /domain-list-community/data/hoyoverse @ads
+#    /domain-list-community/data/mihoyo-cn @ads
+#    /domain-list-community/data/netease @ads
+#    /domain-list-community/data/ookla-speedtest @ads
+#    /domain-list-community/data/openai @ads
+#    /domain-list-community/data/picacg @ads
+#    /domain-list-community/data/pikpak @ads
+#    /domain-list-community/data/pixiv @ads
+#    /domain-list-community/data/qihoo360 @ads
+#    /domain-list-community/data/starworld @ads
+#    /domain-list-community/data/samsung @ads
+#    /domain-list-community/data/sina @ads
+#    /domain-list-community/data/snap @ads
+#    /domain-list-community/data/sohu @ads
+#    /domain-list-community/data/sogou @ads
+#    /domain-list-community/data/spotify @ads
+#    /domain-list-community/data/tcl @ads
+#    /domain-list-community/data/tencent @ads
+#    /domain-list-community/data/qcloud @ads
+#    /domain-list-community/data/discuz @ads
+#    /domain-list-community/data/dnspod @ads
+#    /domain-list-community/data/tencent-dev @ads
+#    /domain-list-community/data/cnb @ads
+#    /domain-list-community/data/coding @ads
+#    /domain-list-community/data/tencent-games @ads
+#    /domain-list-community/data/yuewen @ads
+#    /domain-list-community/data/webnovel @ads
+#    /domain-list-community/data/tendcloud @ads
+#    /domain-list-community/data/twitter @ads
+#    /domain-list-community/data/unity @ads
+#    /domain-list-community/data/unitychina @ads
+#    /domain-list-community/data/xhamster @ads
+#    /domain-list-community/data/xiaomi @ads
+#    /domain-list-community/data/xiaomi-ai @ads
+#    /domain-list-community/data/xiaomi-iot @ads
+#    /domain-list-community/data/ximalaya @ads
+#    /domain-list-community/data/yahoo @ads
+#    /domain-list-community/data/flickr @ads
+#    /domain-list-community/data/zhihu @ads
+
+# This file contains domains that clearly serving ads
+# include:category-ads-ir
+# Iranian Advertising websites
+
+DOMAIN-SUFFIX,adivery.com
+DOMAIN-SUFFIX,adivery.ir
+DOMAIN-SUFFIX,kaprila.com
+DOMAIN-SUFFIX,najva.com
+DOMAIN-SUFFIX,sabavision.com
+DOMAIN-SUFFIX,tapsell.ir
+DOMAIN-SUFFIX,yektanet.com
+
+# include:acfun @ads
+# Beijing Danmu Network Technology Co., Ltd.
+
+# Ads/tracking
+DOMAIN,apilog-web.acfun.cn # @ads
+
+# include:adobe @ads
+# include:adobe-activation
+# https://github.com/v2fly/domain-list-community/issues/2394#issuecomment-2632716166
+# This data source is meant to crack the license-validating of the Adobe software,
+# which is no longer the interest of this project. One of the maintainers (@IceCodeNew)
+# decided that this file should be frozen as an act of showing this project has nothing to do with piracy
+
+# This file is subject to any reasonable deletion request. Till then,
+# this file will be remained to not disturb existing users.
+
+# Adobe online activation domains
+
+# include:typekit
+
+# Adobe Dev
+
+# Behance
+
+# Creative Cloud
+
+# Fotolia
+
+# Magento
+
+# Marketo
+
+# Tools
+
+# Adobe Dynamic Media Delivery
+
+# Adobe Stats IO
+
+# Ads/tracking
+DOMAIN-SUFFIX,advertising.adobe.com # @ads
+DOMAIN-SUFFIX,tubemogul.com # @ads
+
+# include:alibaba @ads
+# All .alibaba domains
+
+# All .alipay domains
+
+# All .taobao domains
+
+# All .tmall domains
+
+# include:9game
+# include:alibabacloud
+
+# include:aliyun
+
+# Ads/tracking
+DOMAIN-SUFFIX,acjs.aliyun.com # @ads
+DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com # @ads
+DOMAIN-SUFFIX,adash.man.aliyuncs.com # @ads
+DOMAIN-SUFFIX,alimama.alicdn.com # @ads
+DOMAIN-SUFFIX,atanx.alicdn.com # @ads
+DOMAIN-SUFFIX,atanx2.alicdn.com # @ads
+DOMAIN-SUFFIX,baichuan-sdk.alicdn.com # @ads
+DOMAIN-SUFFIX,nbsdk-baichuan.alicdn.com # @ads
+DOMAIN-SUFFIX,tce.alicdn.com # @ads
+
+# include:aliyun-drive
+
+# include:amap
+
+# Ads/tracking
+DOMAIN-SUFFIX,adashx.ut.amap.com # @ads
+DOMAIN-SUFFIX,dualstack-logs.amap.com # @ads
+DOMAIN-SUFFIX,logs.amap.com # @ads
+DOMAIN-SUFFIX,optimus-ads.amap.com # @ads
+DOMAIN-SUFFIX,v6-adashx.ut.amap.com # @ads
+
+# include:cainiao
+
+# Ads/tracking
+DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com # @ads
+
+# include:dingtalk
+
+# include:eleme
+
+# Ads/tracking
+DOMAIN-SUFFIX,adashx.ut.ele.me # @ads
+DOMAIN-SUFFIX,h-adashx.ut.ele.me # @ads
+DOMAIN-SUFFIX,v6-adashx.ut.ele.me # @ads
+
+# include:teambition
+
+# include:uc
+
+# Ads/tracking
+DOMAIN-SUFFIX,ads.uc.cn # @ads
+DOMAIN-SUFFIX,adslot.uc.cn # @ads
+
+# include:umeng
+
+# Ads/tracking
+DOMAIN-SUFFIX,aaid.umeng.com # @ads
+DOMAIN-SUFFIX,alog.umeng.com # @ads
+DOMAIN-SUFFIX,alog.umengcloud.com # @ads
+DOMAIN-SUFFIX,alogs.umeng.com # @ads
+DOMAIN-SUFFIX,alogus.umeng.com # @ads
+DOMAIN-SUFFIX,ar.umeng.com # @ads
+DOMAIN-SUFFIX,aspect-upush.umeng.com # @ads
+DOMAIN-SUFFIX,audid.umeng.com # @ads
+DOMAIN-SUFFIX,ccs.umeng.com # @ads
+DOMAIN-SUFFIX,cnlogs.umeng.com # @ads
+DOMAIN-SUFFIX,cnlogs.umengcloud.com # @ads
+DOMAIN-SUFFIX,log.umtrack.com # @ads
+DOMAIN-SUFFIX,new-aaid.umeng.com # @ads
+DOMAIN-SUFFIX,new-aaid.umeng.com.gds.alibabadns.com # @ads
+DOMAIN-SUFFIX,oc.umeng.com # @ads
+DOMAIN-SUFFIX,plbslog.umeng.com # @ads
+DOMAIN-SUFFIX,resolve.umeng.com # @ads
+DOMAIN-SUFFIX,ulogs.umeng.com # @ads
+DOMAIN-SUFFIX,ulogs.umengcloud.com # @ads
+DOMAIN-SUFFIX,utoken.umeng.com # @ads
+DOMAIN-SUFFIX,w.cnzz.com # @ads
+DOMAIN-SUFFIX,z.gds.cnzz.com # @ads
+
+# https://github.com/TG-Twilight/AWAvenue-Ads-Rule/issues/185
+# errlog.umeng.com @ads
+# errnewlog.umeng.com @ads
+
+# include:youku
+# youku uses some alicdn services, so this must use with domain list "alibaba"
+
+# youku video cdn
+
+# Ads/tracking
+DOMAIN-SUFFIX,ad.api.3g.youku.com # @ads
+DOMAIN-SUFFIX,ad.api.mobile.youku.com # @ads
+DOMAIN-SUFFIX,ad.mobile.youku.com # @ads
+DOMAIN-SUFFIX,adashx.ut.youku.com # @ads
+DOMAIN-SUFFIX,atm.youku.com # @ads
+DOMAIN-SUFFIX,e.stat.ykimg.com # @ads
+DOMAIN-SUFFIX,ems.youku.com # @ads
+DOMAIN-SUFFIX,guanggaoad.youku.com # @ads
+DOMAIN-SUFFIX,h-adashx.ut.youku.com # @ads
+DOMAIN-SUFFIX,lstat.youku.com # @ads
+DOMAIN-SUFFIX,mobilemsg.youku.com # @ads
+DOMAIN-SUFFIX,msg.youku.com # @ads
+DOMAIN-SUFFIX,p-log.ykimg.com # @ads
+DOMAIN-SUFFIX,passport-log.youku.com # @ads
+DOMAIN-SUFFIX,pl.youku.com # @ads
+DOMAIN-SUFFIX,s-adashx.ut.youku.com # @ads
+DOMAIN-SUFFIX,stat.youku.com # @ads
+DOMAIN-SUFFIX,statis.api.3g.youku.com # @ads
+DOMAIN-SUFFIX,v6-adashx.ut.youku.com # @ads
+DOMAIN-SUFFIX,yk-ssp.ad.youku.com # @ads
+DOMAIN-SUFFIX,ykad-data.youku.com # @ads
+
+# AliExpress
+
+# Alipay+
+
+# AlipayHK
+
+# AlipayMO
+
+# 盒马
+
+# 蚂蚁财富
+
+# 蚂蚁基金
+
+# 蚂蚁集团
+
+# 神马搜索
+
+# 淘宝
+
+# 夸克
+
+# 飞猪
+
+# 虾米音乐
+
+# 口碑
+
+# 吱声网
+
+# npmmirror 中国镜像站
+
+# 闲鱼
+
+# 考拉
+
+# 瓴羊
+
+# Ads/tracking
+DOMAIN-SUFFIX,a.alimama.cn # @ads
+DOMAIN-SUFFIX,adash-c.m.taobao.com # @ads
+DOMAIN-SUFFIX,adash-c.ut.taobao.com # @ads
+DOMAIN-SUFFIX,adash.m.taobao.com # @ads
+DOMAIN-SUFFIX,adashbc.m.taobao.com # @ads
+DOMAIN-SUFFIX,adashbc.ut.taobao.com # @ads
+DOMAIN-SUFFIX,adashx.m.taobao.com # @ads
+DOMAIN-SUFFIX,adashx4ae.ut.taobao.com # @ads
+DOMAIN-SUFFIX,adashx4yt.m.taobao.com # @ads
+DOMAIN-SUFFIX,adashxgc.ut.taobao.com # @ads
+DOMAIN-SUFFIX,adsh.m.taobao.com # @ads
+DOMAIN-SUFFIX,adtrack.quark.cn # @ads
+DOMAIN-SUFFIX,c-adash.m.taobao.com # @ads
+DOMAIN-SUFFIX,fourier.taobao.com # @ads
+DOMAIN-SUFFIX,g.click.taobao.com # @ads
+DOMAIN-SUFFIX,h-adashx.ut.taobao.com # @ads
+DOMAIN-SUFFIX,h-adashx4yt.ut.taobao.com # @ads
+DOMAIN-SUFFIX,m-adash.m.taobao.com # @ads
+DOMAIN-SUFFIX,marketing.alibaba.com # @ads
+DOMAIN-SUFFIX,nbsdk-baichuan.taobao.com # @ads
+DOMAIN-SUFFIX,retcode.taobao.com # @ads
+DOMAIN-SUFFIX,tns.simba.taobao.com # @ads
+DOMAIN-SUFFIX,track.lc.quark.cn # @ads
+DOMAIN-SUFFIX,v6-adashx.ut.taobao.com # @ads
+
+# include:amazon @ads
+# include:amazontrust
+
+# include:aws
+# include:aws-cn
+
+# AWS CN DNS
+# regexp:.+\.amzndns-cn\.(biz|cn|com|net)$ @cn
+
+# All .aws domains
+
+# AWS
+
+# AWS DNS
+# regexp:.+\.amzndns\.(co\.uk|com|net|org)$
+
+# include:imdb
+# All .imdb domains
+
+# include:kindle
+# All .kindle domains
+
+# Kindle
+# include:primevideo
+# Prime Video
+
+# include:wholefoodsmarket
+
+# All .amazon domains
+
+# All .アマゾン domains
+
+# All .亚马逊 domains
+
+# All .yamaxun domains
+
+# All .zappos domains
+
+# Alexa
+
+# Audible
+
+# CreateSpace
+
+# Ads/tracking
+DOMAIN-SUFFIX,amazon-adsystem.com # @ads
+DOMAIN-SUFFIX,serving-sys.com # @ads
+
+# include:apple @ads
+# include: apple-dev # # swift inside
+# include:swift
+
+# Calendar and Contact Server
+
+# CloudKit
+
+# CUPS
+
+# Developer
+
+# FoundationDB
+
+# macOS forge
+
+# MacRuby
+
+# MapKit
+
+# Playgrounds
+
+# Research & Care
+
+# ServiceTalk
+
+# WebKit
+
+# Other
+
+# Not include:apple-intelligence
+# include:apple-pki
+
+# include:apple-tvplus
+# Apple TV+
+
+# include:apple-update
+# https://support.apple.com/en-us/HT210060
+
+# include:beats
+
+# include:icloud
+# include:icloudprivaterelay
+
+# include:itunes
+
+# All .apple domains
+
+# Apple Store
+
+# App Store
+
+# iMac
+
+# iPad
+
+# iPhone
+
+# iPod
+
+# MacBook
+
+# Apple Watch
+
+# Apple Music
+
+# Apple News
+
+# Apple Pay
+
+# iBook
+
+# iPhoto
+
+# iMovie
+
+# Apple Care
+
+# macOS
+
+# Apple ID
+
+# Apple TV
+
+# Apple One
+
+# Shazam
+
+# Apple Health Studies
+
+# Others
+
+# Domains and services below are available in China mainland
+# Use in config file like this: "geosite:apple@cn"
+
+# regexp:^a[1-5]\.mzstatic\.com$ @cn
+
+# regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$ @cn
+
+# regexp:^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$ @cn
+
+# regexp:^cl[1-5]\.apple\.com$ @cn
+
+# regexp:^is[1-5](-ssl)?\.mzstatic\.com$ @cn
+
+# regexp:^s[1-5]?\.mzstatic\.com$ @cn
+
+# The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/apple.china.conf
+# Revision: f6a2093b254a7d2baca959bd16581666ca394303
+# Duplicates removed
+# According to the consensus in #503, do not include the domain name apps.apple.com directly.
+# Use in config file like this: "geosite:apple@cn"
+
+# Ads/tracking
+DOMAIN-SUFFIX,advertising.apple.com # @ads
+DOMAIN-SUFFIX,api-adservices.apple.com # @ads
+DOMAIN-SUFFIX,iadsdk.apple.com # @ads
+DOMAIN-SUFFIX,iad.apple.com # @ads
+DOMAIN-SUFFIX,qwapi.com # @ads
+
+# include:baidu @ads
+# include:zuoyebang
+
+# Ads/tracking
+DOMAIN-SUFFIX,syh.zybang.com # @ads
+
+# All .baidu domains
+
+# 度小满
+
+# Ads/tracking
+DOMAIN-SUFFIX,adscdn.baidu.com # @ads
+DOMAIN-SUFFIX,adx.xiaodutv.com # @ads
+DOMAIN-SUFFIX,afd.baidu.com # @ads
+DOMAIN-SUFFIX,afdconf.baidu.com # @ads
+DOMAIN-SUFFIX,baifen.music.baidu.com # @ads
+DOMAIN-SUFFIX,bzclk.baidu.com # @ads
+DOMAIN-SUFFIX,cb.baidu.com # @ads
+DOMAIN-SUFFIX,cbjs.baidu.com # @ads
+DOMAIN-SUFFIX,cm.baidu.com # @ads
+DOMAIN-SUFFIX,cpro.baidu.com # @ads
+DOMAIN-SUFFIX,cpro.baidustatic.com # @ads
+DOMAIN-SUFFIX,cpu.baidu.com # @ads
+DOMAIN-SUFFIX,cstm.baidu.com # @ads
+DOMAIN-SUFFIX,dlswbr.baidu.com # @ads
+DOMAIN-SUFFIX,drmcmm.baidu.com # @ads
+DOMAIN-SUFFIX,duiwai.baidu.com # @ads
+DOMAIN-SUFFIX,dup.baidustatic.com # @ads
+DOMAIN-SUFFIX,eclick.baidu.com # @ads
+DOMAIN-SUFFIX,ecma.bdimg.com # @ads
+DOMAIN-SUFFIX,ecmb.bdimg.com # @ads
+DOMAIN-SUFFIX,ecmc.bdimg.com # @ads
+DOMAIN-SUFFIX,eduad.baidu.com # @ads
+DOMAIN-SUFFIX,eiv.baidu.com # @ads
+DOMAIN-SUFFIX,fclick.baidu.com # @ads
+DOMAIN-SUFFIX,fclog.baidu.com # @ads
+DOMAIN-SUFFIX,h2tcbox.baidu.com # @ads
+DOMAIN-SUFFIX,hao123union.baidu.com # @ads
+DOMAIN-SUFFIX,hm.baidu.com # @ads
+DOMAIN-SUFFIX,hmma.baidu.com # @ads
+DOMAIN-SUFFIX,imgstat.baidu.com # @ads
+DOMAIN-SUFFIX,iwanad.baidu.com # @ads
+DOMAIN-SUFFIX,miao.baidu.com # @ads
+DOMAIN-SUFFIX,miaowu.baidu.com # @ads
+DOMAIN-SUFFIX,mipcache.bdstatic.com # @ads
+DOMAIN-SUFFIX,mobads.baidu.com # @ads
+DOMAIN-SUFFIX,mobads-logs.baidu.com # @ads
+DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com # @ads
+DOMAIN-SUFFIX,mountain.zhidao.baidu.com # @ads
+DOMAIN-SUFFIX,nsclick.baidu.com # @ads
+DOMAIN-SUFFIX,nsclickvideo.baidu.com # @ads
+DOMAIN-SUFFIX,pimlog.baidu.com # @ads
+DOMAIN-SUFFIX,pos.baidu.com # @ads
+DOMAIN-SUFFIX,sclick.baidu.com # @ads
+DOMAIN-SUFFIX,spcode.baidu.com # @ads
+DOMAIN-SUFFIX,tcbox.baidu.com # @ads
+DOMAIN-SUFFIX,ubmcvideo.baidustatic.com # @ads
+DOMAIN-SUFFIX,union.baidu.com # @ads
+DOMAIN-SUFFIX,unionimage.baidu.com # @ads
+DOMAIN-SUFFIX,wangmeng.baidu.com # @ads
+DOMAIN-SUFFIX,wkctj.baidu.com # @ads
+DOMAIN-SUFFIX,wm.baidu.com # @ads
+DOMAIN-SUFFIX,zz.bdstatic.com # @ads
+
+# include:bytedance @ads
+# include: bytedance-ai-!cn # # not serving for cn
+# include:dola
+# Dola, formly ciciai, an AI service of bytedance
+
+# related to doubao
+
+# related to trae
+
+# include:doubao
+# 北京春田知韵科技有限公司 京ICP备2023020373号
+# non-cn domains is added to bytedance-ai-!cn
+
+# include: douyin # # douyin, huoshan and qishuimusic inside
+# 北京抖音科技有限公司 京ICP备16016397号
+# 抖音、抖音火山版、汽水音乐
+
+# 抖音支付
+
+# include:fqnovel
+
+# Ads/tracking
+DOMAIN,ads3-normal-hl.zijieapi.com # @ads
+DOMAIN,ads3-normal.zijieapi.com # @ads
+DOMAIN,ads5-normal-hl.zijieapi.com # @ads
+DOMAIN,ads5-normal.zijieapi.com # @ads
+DOMAIN,log3-applog-hl.fqnovel.com # @ads
+DOMAIN,log3-applog.fqnovel.com # @ads
+DOMAIN,log5-applog-hl.fqnovel.com # @ads
+DOMAIN,log5-applog.fqnovel.com # @ads
+DOMAIN,p3-ad-sign.byteimg.com # @ads
+DOMAIN,p6-ad-sign.byteimg.com # @ads
+DOMAIN,p9-ad-sign.byteimg.com # @ads
+DOMAIN,rtlog3-applog-hl.fqnovel.com # @ads
+DOMAIN,rtlog3-applog.fqnovel.com # @ads
+DOMAIN,rtlog5-applog-hl.fqnovel.com # @ads
+DOMAIN,rtlog5-applog.fqnovel.com # @ads
+
+# include:juejin
+
+# include: lark # # feishu is included in lark
+# This tag 'lark' is for backward compatibility
+
+# include:feishu
+
+# include:lark-global
+
+# include: tiktok # # not serving for cn
+
+# Ads/tracking
+DOMAIN-SUFFIX,analytics.tiktok.com # @!cn @ads
+
+# include:trae
+# 北京引力弹弓科技有限公司 京ICP备2024062284号
+# non-cn domains is added to bytedance-ai-!cn
+
+# include:volcengine
+
+# 今日头条
+
+# 西瓜视频
+
+# 快懂百科
+
+# 悟空问答
+
+# 懂车帝
+# include:dongchedi
+# 渝ICP备2023013619号
+
+# 阳关宽频网
+
+# GoGoKid
+
+# 皮皮虾
+
+# 上海格物致品
+
+# faceu
+
+# 轻颜相机
+
+# RsProxy 镜像
+
+# 半次元 (dead)
+# 沪ICP备2021005742号
+#bcy.net
+#bcyevent.net
+#bcyimg.com
+#bcylove.net
+#bcysnssdk.com
+#bcystatic.com
+#bcyvod.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,ad.toutiao.com # @ads
+DOMAIN-SUFFIX,bds.snssdk.com # @ads
+DOMAIN-SUFFIX,byteadverts.com # @ads
+DOMAIN-SUFFIX,ctobsnssdk.com # @ads
+DOMAIN-SUFFIX,dig.bdurl.net # @ads
+DOMAIN-SUFFIX,extlog.snssdk.com # @ads
+DOMAIN-SUFFIX,i.snssdk.com # @ads
+DOMAIN-SUFFIX,log.zijieapi.com # @ads
+DOMAIN-SUFFIX,mcs.snssdk.com # @ads
+DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com # @ads
+DOMAIN-SUFFIX,pangolin-dsp-toutiao.com # @ads
+DOMAIN-SUFFIX,pangolin-hl.snssdk.com # @ads
+DOMAIN-SUFFIX,pangolin-lf.snssdk.com # @ads
+DOMAIN-SUFFIX,pangolin-lq.snssdk.com # @ads
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com # @ads
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com # @ads
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com # @ads
+DOMAIN-SUFFIX,pangolin.snssdk.com # @ads
+DOMAIN-SUFFIX,panplayable-toutiao-b.com # @ads
+DOMAIN-SUFFIX,panplayable-toutiao.com # @ads
+DOMAIN-SUFFIX,pglstatp-sdk-toutiao.com # @ads
+DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com # @ads
+DOMAIN-SUFFIX,pglstatp-toutiao-b.com # @ads
+DOMAIN-SUFFIX,pglstatp-toutiao.com # @ads
+DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com # @ads
+DOMAIN-SUFFIX,shoppingads.cn # @ads
+
+# include:cctv @ads
+
+DOMAIN-SUFFIX,ad.cctv.com # @ads
+
+# include:disney @ads
+# include:abc
+# American Broadcasting Company
+
+# include:bamtech
+
+# include:espn
+
+# include:hotstar
+
+# include:marvel
+
+# include:nationalgeographic
+
+# include:starplus
+
+# Others
+
+# tracking
+DOMAIN,disney.my.sentry.io # @ads
+
+# include:dmm @ads
+# include:dmm-porn
+
+# Ads/tracking
+# Refer: https://tonahazana.com/kancolle-2nd-weight-saving
+# If you use support tools to play DMM games(such as playing Kantai Collection by poi), this list maybe useful.
+DOMAIN-SUFFIX,ad.games.dmm.com # @ads
+DOMAIN-SUFFIX,bluekai.com # @ads
+DOMAIN-SUFFIX,fout.jp # @ads
+DOMAIN-SUFFIX,gmossp-sp.jp # @ads
+DOMAIN-SUFFIX,i-mobile.co.jp # @ads
+DOMAIN-SUFFIX,im-apps.net # @ads
+DOMAIN-SUFFIX,impact-ad.jp # @ads
+DOMAIN-SUFFIX,ladsp.com # @ads
+DOMAIN-SUFFIX,microad.co.jp # @ads
+DOMAIN-SUFFIX,microad.jp # @ads
+DOMAIN-SUFFIX,socdm.com # @ads
+
+# include:duolingo @ads
+
+# Ads/tracking
+DOMAIN-SUFFIX,ads-api.duolingo.com # @ads
+DOMAIN-SUFFIX,analytics.vpc.duolingo.com # @ads
+DOMAIN-SUFFIX,metrics.duolingo.com # @ads
+
+# include:gamersky @ads
+
+DOMAIN-SUFFIX,click.gamersky.com # @ads
+DOMAIN-SUFFIX,ja.gamersky.com # @ads
+DOMAIN-SUFFIX,ja1.gamersky.com # @ads
+DOMAIN-SUFFIX,ja2.gamersky.com # @ads
+DOMAIN-SUFFIX,wmbd.gamersky.com # @ads
+
+# include:google @ads
+# List of all domains being operated by Google Inc.
+# include:android
+# All .android domains
+
+# include:blogspot
+# Main domain which weblogs are registered in
+
+# Subdomains which weblogs can be accessed from
+
+# Other related domains:
+
+# include:dart
+
+# include:fastlane
+
+# include:firebase
+
+# include:flutter
+
+# include:golang
+
+# include:google-deepmind
+# Google DeepMind
+
+# Google Generative Language API
+
+# Google AI Studio
+
+# Gemini Code Assist
+# https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
+
+# NotebookLM
+
+# Jules
+
+# Google AI Labs
+
+# Android Studio Gemini Code Assist
+
+# Opal
+
+# Antigravity
+
+# include:google-gemini
+# This list is for backward compatibility
+
+# include:google-deepmind
+# Google DeepMind
+
+# Google Generative Language API
+
+# Google AI Studio
+
+# Gemini Code Assist
+# https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
+
+# NotebookLM
+
+# Jules
+
+# Google AI Labs
+
+# Android Studio Gemini Code Assist
+
+# Opal
+
+# Antigravity
+
+# include:google-play
+
+# if connect to services.googleapis.cn directly,
+# then these domains will be used.
+# 北京 (2x3)、上海 (ni5)、广州 (j5o)
+# the same but DNS pollution in China mainland.
+
+# include:google-registry
+
+# include:google-scholar
+
+# include:google-trust-services
+
+# Google Public CA API Endpoint
+
+# Deprecated earlier
+
+# Deprecated recently
+
+# include:googlefcm
+
+# include:kaggle
+
+# include:opensourceinsights
+
+# include:polymer
+
+# include:v8
+
+# include:youtube
+# All .youtube domains
+
+# Ads/tracking
+DOMAIN-SUFFIX,ads.youtube.com # @ads
+
+# All .and domains
+# and (TLD application withdrawn by Google)
+
+# All .chrome domains
+
+# All .dclk domains
+
+# All .gbiz domains
+
+# All .gle domains
+
+# All .gmail domains
+
+# All .goo domains
+
+# All .goog domains
+
+# All .google domains
+
+# All .guge domains
+
+# All .hangout domains
+
+# All .nexus domains
+
+# All .谷歌 domains
+
+# All .グーグル domains
+
+# Source: https://www.google.com/supported_domains
+
+# Others
+
+# Google safe browsing relay
+# https://www.fastly.com/press/press-releases/google-selects-Fastly-Oblivious-HTTP-Relay-for-Privacy-Sandbox/
+
+# Ads/tracking
+DOMAIN-SUFFIX,2mdn-cn.net # @ads
+DOMAIN-SUFFIX,2mdn.net # @ads
+DOMAIN-SUFFIX,admob-cn.com # @ads
+DOMAIN-SUFFIX,admob.com # @ads
+DOMAIN-SUFFIX,adsense.com # @ads
+DOMAIN-SUFFIX,adsensecustomsearchads.com # @ads
+DOMAIN-SUFFIX,adsenseformobileapps.com # @ads
+DOMAIN-SUFFIX,adservice.google.com # @ads
+DOMAIN-SUFFIX,adtrafficquality.google # @ads
+DOMAIN-SUFFIX,advertisercommunity.com # @ads
+DOMAIN-SUFFIX,advertiserscommunity.com # @ads
+DOMAIN-SUFFIX,adwords-community.com # @ads
+DOMAIN-SUFFIX,adwords.com # @ads
+DOMAIN-SUFFIX,adwordsexpress.com # @ads
+DOMAIN-SUFFIX,analytics-alv.google.com # @ads
+DOMAIN-SUFFIX,app-analytics-services.com # @ads
+DOMAIN-SUFFIX,app-analytics-services-att.com # @ads
+DOMAIN-SUFFIX,app-measurement-cn.com # @ads
+DOMAIN-SUFFIX,app-measurement.com # @ads
+DOMAIN-SUFFIX,doubleclick-cn.net # @ads
+DOMAIN-SUFFIX,doubleclick.cn # @ads
+DOMAIN-SUFFIX,doubleclick.com # @ads
+DOMAIN-SUFFIX,doubleclick.net # @ads
+DOMAIN-SUFFIX,fcmatch.google.com # @ads
+DOMAIN-SUFFIX,google-analytics-cn.com # @ads
+DOMAIN-SUFFIX,google-analytics.com # @ads
+DOMAIN-SUFFIX,googleadapis.com # @ads
+DOMAIN-SUFFIX,googleadapis.l.google.com # @ads
+DOMAIN-SUFFIX,googleads-cn.com # @ads
+DOMAIN-SUFFIX,googleads.com # @ads
+DOMAIN-SUFFIX,googleadservices-cn.com # @ads
+DOMAIN-SUFFIX,googleadservices.com # @ads
+DOMAIN-SUFFIX,googleadsserving.cn # @ads
+DOMAIN-SUFFIX,googleanalytics.com # @ads
+DOMAIN-SUFFIX,googleoptimize-cn.com # @ads
+DOMAIN-SUFFIX,googleoptimize.com # @ads
+DOMAIN-SUFFIX,googlesyndication-cn.com # @ads
+DOMAIN-SUFFIX,googlesyndication.com # @ads
+DOMAIN-SUFFIX,googletagmanager-cn.com # @ads
+DOMAIN-SUFFIX,googletagmanager.com # @ads
+DOMAIN-SUFFIX,googletagservices-cn.com # @ads
+DOMAIN-SUFFIX,googletagservices.com # @ads
+DOMAIN-SUFFIX,googletraveladservices-cn.com # @ads
+DOMAIN-SUFFIX,googletraveladservices.com # @ads
+DOMAIN-SUFFIX,googlevads-cn.com # @ads
+DOMAIN-SUFFIX,mail-ads.google.com # @ads
+DOMAIN-SUFFIX,mobileads.google.com # @ads
+DOMAIN-SUFFIX,marketingplatform.google.com # @ads
+DOMAIN-SUFFIX,pagead.l.google.com # @ads
+DOMAIN-SUFFIX,partnerad.l.google.com # @ads
+DOMAIN-SUFFIX,urchin.com # @ads
+DOMAIN,analytics.google.com # @ads
+# https://github.com/AdguardTeam/FiltersRegistry/pull/1154
+# full:fundingchoicesmessages.google.com @ads
+
+# Domains and services below are available in China mainland
+# Use in config file like this: "geosite:google@cn"
+
+# The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/google.china.conf
+# Revision: 1c2d107d4e7eaa0b192e08bb0beddde4aab247f6
+# Duplicates removed
+# Use in config file like this: "geosite:google@cn"
+
+# include:hetzner @ads
+
+# tracking
+DOMAIN,sentry.hetzner.company # @ads
+
+# include:hunantv @ads
+# 湖南广电（芒果TV）
+
+# Ads/tracking
+DOMAIN-SUFFIX,click.hunantv.com # @ads
+DOMAIN-SUFFIX,da.hunantv.com # @ads
+DOMAIN-SUFFIX,da.mgtv.com # @ads
+DOMAIN-SUFFIX,log.hunantv.com # @ads
+DOMAIN-SUFFIX,log.v2.hunantv.com # @ads
+DOMAIN-SUFFIX,res.hunantv.com # @ads
+
+# include:iqiyi @ads
+
+# CDN used by iqiyi
+
+# Ads/tracking
+DOMAIN-SUFFIX,ad.m.iqiyi.com # @ads
+DOMAIN-SUFFIX,afp.iqiyi.com # @ads
+DOMAIN-SUFFIX,c.uaa.iqiyi.com # @ads
+DOMAIN-SUFFIX,cloudpush.iqiyi.com # @ads
+DOMAIN-SUFFIX,cupid.iqiyi.com # @ads
+DOMAIN-SUFFIX,ifacelog.iqiyi.com # @ads
+DOMAIN-SUFFIX,mbdlog.iqiyi.com # @ads
+DOMAIN-SUFFIX,msg.video.qiyi.com # @ads
+DOMAIN-SUFFIX,msg2.video.qiyi.com # @ads
+DOMAIN-SUFFIX,policy.video.iqiyi.com # @ads
+
+# include:jd @ads
+
+# 达达
+
+# 哆啦宝
+
+# Ads/tracking
+DOMAIN-SUFFIX,ads-union.jd.com # @ads
+DOMAIN-SUFFIX,ads.union.jd.com # @ads
+DOMAIN-SUFFIX,c-nfa.jd.com # @ads
+DOMAIN-SUFFIX,cps.360buy.com # @ads
+DOMAIN-SUFFIX,gia.jd.com # @ads
+DOMAIN-SUFFIX,img-x.jd.com # @ads
+DOMAIN-SUFFIX,jzt.jd.com # @ads
+DOMAIN-SUFFIX,stat.m.jd.com # @ads
+
+# include:kuaishou @ads
+
+# Ads/tracking
+DOMAIN-SUFFIX,adbkwai.com # @ads
+DOMAIN-SUFFIX,adkwai.com # @ads
+DOMAIN-SUFFIX,adukwai.com # @ads
+DOMAIN-SUFFIX,e.kuaishou.cn # @ads
+DOMAIN-SUFFIX,e.kuaishou.com # @ads
+DOMAIN,log-sdk.gifshow.com # @ads
+DOMAIN,wlog.kuaishou.com # @ads
+
+# include:kugou @ads
+
+# Ads/tracking
+DOMAIN-SUFFIX,ads.service.kugou.com # @ads
+DOMAIN-SUFFIX,adserviceretry.kglink.cn # @ads
+DOMAIN-SUFFIX,adserviceretry.kugou.com # @ads
+
+# include:le @ads
+
+# Ads/tracking
+DOMAIN-SUFFIX,apple.www.letv.com # @ads
+DOMAIN-SUFFIX,ark.letv.com # @ads
+DOMAIN-SUFFIX,dc.letv.com # @ads
+DOMAIN-SUFFIX,g3.letv.com # @ads
+
+# include:meta @ads
+# include:facebook
+
+# Workplace
+
+# Ads/tracking
+DOMAIN-SUFFIX,analytics.facebook.com # @ads
+DOMAIN-SUFFIX,facebookads.com # @ads
+DOMAIN-SUFFIX,pixel.facebook.com # @ads
+
+# include:facebook-dev
+
+# include:instagram
+
+# Ads/tracking
+DOMAIN-SUFFIX,graph.instagram.com # @ads
+DOMAIN-SUFFIX,graph-fallback.instagram.com # @ads
+
+# include:messenger
+
+# include:oculus
+
+# include:threads
+
+# include:whatsapp
+
+# Ads/tracking
+DOMAIN-SUFFIX,graph.whatsapp.com # @ads
+DOMAIN-SUFFIX,graph.whatsapp.net # @ads
+
+# include:microsoft @ads
+# include:azure
+# All .azure domains
+
+# regexp:.+\.azchcdn[a-s]\.com$ @cn
+
+# Azure DNS
+
+# regexp:.+\.azure-dns-([1-9]|10)\.cn$ @cn
+
+# include:bing
+# All .bing domains
+
+DOMAIN-SUFFIX,bingads.com # @ads
+
+# include:github
+# include:github-copilot
+# include:npmjs
+
+# GitHub Actions Artifacts
+
+# Ads/tracking
+DOMAIN-SUFFIX,collector.github.com # @ads
+DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com # @ads
+
+# include:microsoft-dev
+
+# include:microsoft-pki
+
+# include:msn
+
+# Ads/tracking
+DOMAIN-SUFFIX,browser.events.data.msn.cn # @ads @cn
+DOMAIN-SUFFIX,browser.events.data.msn.com # @ads
+
+# include:onedrive
+
+# include:xbox
+# include:asobo
+
+# include:bethesda
+
+# Doom
+
+# The Elder Scrolls
+
+# include:forza
+
+# include:mojang
+
+# All .xbox domains
+
+# All .microsoft domains
+
+# All .hotmail domains
+
+# All .office domains
+
+# All .skype domains
+
+# All .windows domains
+
+# M12
+
+# Others
+
+# Skype CDN
+
+# Ads/tracking
+DOMAIN-SUFFIX,clarity.ms # @ads
+DOMAIN-SUFFIX,microsoftads.com # @ads
+DOMAIN-SUFFIX,msads.net # @ads
+DOMAIN-SUFFIX,nelreports.net # @ads
+
+# Domains and services below are available in China mainland
+# Use in config file like this: "geosite:microsoft@cn"
+
+# include:mihoyo @ads
+# include:hoyoverse
+# 原神
+
+# 崩壞3
+
+# 星穹鐵道
+
+# 短網址
+
+# HoYoLab
+
+# HoYoverse
+
+# n0va
+
+# 絕區零(Zenless Zone Zero)
+
+# ads/tracking
+DOMAIN-SUFFIX,log-upload-os.hoyoverse.com # @ads
+
+# include:mihoyo-cn
+# 米哈游
+
+# 崩坏2
+
+# 崩坏3
+
+# 星穹铁道
+
+# 未定事件簿
+
+# 原神
+
+#绝区零
+
+# Akamai
+
+# Ads/tracking
+DOMAIN-SUFFIX,log-upload.mihoyo.com # @ads
+
+# include:netease @ads
+
+# Ads/tracking
+DOMAIN-SUFFIX,a.youdao.com # @ads
+DOMAIN-SUFFIX,admusicpic.music.126.net # @ads
+DOMAIN-SUFFIX,ads.music.126.net # @ads
+DOMAIN-SUFFIX,analytics.163.com # @ads
+DOMAIN-SUFFIX,crash.163.com # @ads
+DOMAIN-SUFFIX,crashlytics.163.com # @ads
+DOMAIN-SUFFIX,g.163.com # @ads
+DOMAIN-SUFFIX,iadmat.nosdn.127.net # @ads
+DOMAIN-SUFFIX,iadmatapk.nosdn.127.net # @ads
+DOMAIN-SUFFIX,iadmusicmat.music.126.net # @ads
+DOMAIN-SUFFIX,iadmusicmatvideo.music.126.net # @ads
+DOMAIN-SUFFIX,sentry.music.163.com # @ads
+
+# include:ookla-speedtest @ads
+
+# SpeedTest Node
+
+# Ads/tracking
+URL-REGEX,^https?://speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net(/.*)?$ # @ads
+
+# include:openai @ads
+# Main domain
+
+# CDN & API
+
+# tracking
+DOMAIN,o33249.ingest.sentry.io # @ads
+DOMAIN,browser-intake-datadoghq.com # @ads
+
+# Advanced Voice
+
+# include:picacg @ads
+
+# Image Resource Domain like `img.diwodiwo.xyz` `s3.diwodiwo.xyz` `storage.diwodiwo.xyz` `storage-b.diwodiwo.xyz`
+
+# Ad Domain
+DOMAIN,ad-channel.diwodiwo.xyz # @ads
+DOMAIN,ad-display.diwodiwo.xyz # @ads
+
+# include:pikpak @ads
+
+# tracking
+DOMAIN,o4504926511693824.ingest.sentry.io # @ads
+
+# include:pixiv @ads
+DOMAIN-SUFFIX,ads-pixiv.net # @ads
+
+# include:qihoo360 @ads
+# include:starworld
+# StarWorld Games is a wholly owned subsidiary of Qihoo 360
+
+# 北方矢量
+
+# Ads/tracking
+DOMAIN-SUFFIX,c.sayhi.360.cn # @ads
+DOMAIN-SUFFIX,fenxi.360.cn # @ads
+DOMAIN-SUFFIX,fenxi.com # @ads
+DOMAIN-SUFFIX,lianmeng.360.cn # @ads
+DOMAIN-SUFFIX,mediav.com # @ads
+DOMAIN-SUFFIX,mvad.com # @ads
+DOMAIN-SUFFIX,qhupdate.com # @ads
+DOMAIN-SUFFIX,s.360.cn # @ads
+DOMAIN-SUFFIX,s.so.360.cn # @ads
+DOMAIN-SUFFIX,s.union.360.cn # @ads
+
+# include:samsung @ads
+# All .samsung domains
+
+# All .삼성 domains
+
+DOMAIN-SUFFIX,samsungads.com # @ads
+
+# include:sina @ads
+
+# Ads/tracking
+DOMAIN-SUFFIX,ad.sina.com.cn # @ads
+DOMAIN-SUFFIX,ad.us.sinaimg.cn # @ads
+DOMAIN-SUFFIX,adbox.sina.com.cn # @ads
+DOMAIN-SUFFIX,adimg.mobile.sina.cn # @ads
+DOMAIN-SUFFIX,adimg.uve.weibo.com # @ads
+DOMAIN-SUFFIX,ads.sina.com # @ads
+DOMAIN-SUFFIX,alitui.weibo.com # @ads
+DOMAIN-SUFFIX,beacon.sina.com.cn # @ads
+DOMAIN-SUFFIX,biz.weibo.com # @ads
+DOMAIN-SUFFIX,click.uve.mobile.sina.cn # @ads
+DOMAIN-SUFFIX,click.uve.weibo.com # @ads
+DOMAIN-SUFFIX,log.mix.sina.com.cn # @ads
+DOMAIN-SUFFIX,log.sina.cn # @ads
+DOMAIN-SUFFIX,log2.sina.cn # @ads
+DOMAIN-SUFFIX,mixer.sina.cn # @ads
+DOMAIN-SUFFIX,p4p.sina.com.cn # @ads
+DOMAIN-SUFFIX,rs.sinajs.cn # @ads
+DOMAIN-SUFFIX,sa.sina.cn # @ads
+DOMAIN-SUFFIX,sbeacon.sina.com.cn # @ads
+DOMAIN-SUFFIX,sdkclick.mobile.sina.cn # @ads
+DOMAIN-SUFFIX,slog.sina.cn # @ads
+DOMAIN-SUFFIX,slog.sina.com.cn # @ads
+DOMAIN-SUFFIX,wapwbclick.mobile.sina.cn # @ads
+DOMAIN-SUFFIX,wbclick.mobile.sina.cn # @ads
+
+# include:snap @ads
+DOMAIN-SUFFIX,snapads.com # @ads
+
+# include:sohu @ads
+# include:sogou
+
+# Ads/tracking
+DOMAIN-SUFFIX,inte.sogou.com # @ads
+DOMAIN-SUFFIX,inte.sogoucdn.com # @ads
+DOMAIN-SUFFIX,lu.sogou.com # @ads
+DOMAIN-SUFFIX,lu.sogoucdn.com # @ads
+DOMAIN-SUFFIX,pb.i.sogou.com # @ads
+DOMAIN-SUFFIX,theta.sogoucdn.com # @ads
+DOMAIN-SUFFIX,uranus.sogou.com # @ads
+DOMAIN-SUFFIX,wuliao.epro.sogou.com # @ads
+
+# All .sohu domains
+
+# 56网
+
+# Ads/tracking
+DOMAIN-SUFFIX,adnet.sohu.com # @ads
+DOMAIN-SUFFIX,ads.sohu.com # @ads
+DOMAIN-SUFFIX,adv-sv-show.focus.cn # @ads
+DOMAIN-SUFFIX,adv-sv-stat.focus.cn # @ads
+DOMAIN-SUFFIX,assp.sohu.com # @ads
+DOMAIN-SUFFIX,bdu.focus.cn # @ads
+DOMAIN-SUFFIX,fpb.sohu.com # @ads
+DOMAIN-SUFFIX,imp.go.sohu.com # @ads
+DOMAIN-SUFFIX,m.aty.sohu.com # @ads
+DOMAIN-SUFFIX,p.aty.sohu.com # @ads
+DOMAIN-SUFFIX,pv.hd.sohu.com # @ads
+DOMAIN-SUFFIX,pv.sohu.com # @ads
+DOMAIN-SUFFIX,qpb.sohu.com # @ads
+DOMAIN-SUFFIX,qpb1.sohu.com # @ads
+DOMAIN-SUFFIX,reke.at.sohu.com # @ads
+DOMAIN-SUFFIX,track.sohu.com # @ads
+
+# include:spotify @ads
+
+# Ads/tracking
+DOMAIN,adeventtracker.spotify.com # @ads
+DOMAIN,adstudio-assets.scdn.co # @ads
+DOMAIN,bloodhound.spotify.com # @ads
+
+# include:tcl @ads
+# 粤ICP备2020114412号
+
+# 粤ICP备05040863号
+
+# 粤ICP备17088321号
+
+# 粤ICP备14002670号
+
+# Ads/tracking
+DOMAIN-SUFFIX,ads-uo.api.leiniao.com # @ads
+DOMAIN-SUFFIX,ads-ut.api.leiniao.com # @ads
+DOMAIN-SUFFIX,ads.api.my7v.com # @ads
+DOMAIN-SUFFIX,euads-o.api.leiniao.com # @ads
+DOMAIN-SUFFIX,hwads-t.api.my7v.com # @ads
+DOMAIN-SUFFIX,testads.api.my7v.com # @ads
+
+# include:tencent @ads
+# include: qcloud # #腾讯云
+# include:discuz
+
+# include:dnspod
+
+# regexp:.+\.dnse[0-5]\.(cn|com)$
+
+# regexp:.+\.tdnsv([1-9]|1[0-5])\.(com|net)$
+
+# myqcloud inside mainland China
+
+# COS 使用到的非中国大陆的地域与可用区，参见 https://cloud.tencent.com/document/product/436/6224
+
+# tencentcos inside mainland China
+
+# tencentcos outside mainland China
+# regexp:.+\.ap-hongkong\.tencentcos\.(cn|com(\.cn)?)$ @!cn       #中国香港
+
+# regexp:.+\.ap-singapore\.tencentcos\.(cn|com(\.cn)?)$ @!cn      #新加坡
+
+# regexp:.+\.ap-mumbai\.tencentcos\.(cn|com(\.cn)?)$ @!cn         #孟买
+
+# regexp:.+\.ap-jakarta\.tencentcos\.(cn|com(\.cn)?)$ @!cn        #雅加达
+
+# regexp:.+\.ap-seoul\.tencentcos\.(cn|com(\.cn)?)$ @!cn          #首尔
+
+# regexp:.+\.ap-bangkok\.tencentcos\.(cn|com(\.cn)?)$ @!cn        #曼谷
+
+# regexp:.+\.ap-tokyo\.tencentcos\.(cn|com(\.cn)?)$ @!cn          #东京
+
+# regexp:.+\.na-siliconvalley\.tencentcos\.(cn|com(\.cn)?)$ @!cn  #硅谷（美西）
+
+# regexp:.+\.na-ashburn\.tencentcos\.(cn|com(\.cn)?)$ @!cn        #弗吉尼亚（美东）
+
+# regexp:.+\.na-toronto\.tencentcos\.(cn|com(\.cn)?)$ @!cn        #多伦多
+
+# regexp:.+\.sa-saopaulo\.tencentcos\.(cn|com(\.cn)?)$ @!cn       #圣保罗
+
+# regexp:.+\.eu-frankfurt\.tencentcos\.(cn|com(\.cn)?)$ @!cn      #法兰克福
+
+# regexp:.+\.eu-moscow\.tencentcos\.(cn|com(\.cn)?)$ @!cn         #莫斯科
+
+# Formerly COS Download Domain
+
+# Formerly COS Upload Domain
+
+# Oracle
+
+# 腾讯优码
+
+# 前端性能监控
+
+# include:tencent-dev
+# include:cnb
+# 腾讯 云原生构建
+
+# include:coding
+
+# Ads/tracking
+DOMAIN-SUFFIX,badjs.weixinbridge.com # @ads
+
+# include:tencent-games
+
+# Roblox
+
+# NExT Studios
+
+# 迷失之地
+
+# 篝火营地
+
+# WeGame
+
+# Supercell cn (data/supercell is for non-cn domains)
+
+# 使命召唤
+
+# 穿越火线
+
+# 腾讯游戏安全专家
+
+# 洛克王国
+
+# include:yuewen
+# include: webnovel # # not serving for cn
+
+# qq.中国
+
+# 腾讯.中国
+
+# 腾讯枫叶
+
+# Ads/tracking
+DOMAIN-SUFFIX,ad.browser.qq.com # @ads
+DOMAIN-SUFFIX,ad.qq.com # @ads
+DOMAIN-SUFFIX,ad.qun.qq.com # @ads
+DOMAIN-SUFFIX,ad.tencentmusic.com # @ads
+DOMAIN-SUFFIX,ad.weixin.qq.com # @ads
+DOMAIN-SUFFIX,adfilter.imtt.qq.com # @ads
+DOMAIN-SUFFIX,adnet.qq.com # @ads
+DOMAIN-SUFFIX,adping.qq.com # @ads
+DOMAIN-SUFFIX,adpm.app.qq.com # @ads
+DOMAIN-SUFFIX,adsclick.qq.com # @ads
+DOMAIN-SUFFIX,adsfile.qq.com # @ads
+DOMAIN-SUFFIX,adshmmsg.qq.com # @ads
+DOMAIN-SUFFIX,adslvfile.qq.com # @ads
+DOMAIN-SUFFIX,adslvseed.qq.com # @ads
+DOMAIN-SUFFIX,adsmind.apdcdn.tc.qq.com # @ads
+DOMAIN-SUFFIX,adsqqclick.qq.com # @ads
+DOMAIN-SUFFIX,adstats.tencentmusic.com # @ads
+DOMAIN-SUFFIX,adstestview.qq.com # @ads
+DOMAIN-SUFFIX,adsview.qq.com # @ads
+DOMAIN-SUFFIX,adsview2.qq.com # @ads
+DOMAIN-SUFFIX,adv.app.qq.com # @ads
+DOMAIN-SUFFIX,adver.qq.com # @ads
+DOMAIN-SUFFIX,beacon.cdn.qq.com # @ads
+DOMAIN-SUFFIX,beacon.qq.com # @ads
+DOMAIN-SUFFIX,beaconcdn.qq.com # @ads
+DOMAIN-SUFFIX,btrace.qq.com # @ads
+DOMAIN-SUFFIX,bugly.qq.com # @ads
+DOMAIN-SUFFIX,e.qq.com # @ads
+DOMAIN-SUFFIX,gdt.qq.com # @ads
+DOMAIN-SUFFIX,hq-tracking.qq.com # @ads
+DOMAIN-SUFFIX,htrace.wetvinfo.com # @!cn @ads
+DOMAIN-SUFFIX,isdspeed.qq.com # @ads
+DOMAIN-SUFFIX,log.tbs.qq.com # @ads
+DOMAIN-SUFFIX,mdt.qq.com # @ads
+DOMAIN-SUFFIX,monitor.music.qq.com # @ads
+DOMAIN-SUFFIX,monitor.uu.qq.com # @ads
+DOMAIN-SUFFIX,mpush.qq.com # @ads
+DOMAIN-SUFFIX,mtrace.qq.com # @ads
+DOMAIN-SUFFIX,pgdt.gtimg.cn # @ads
+DOMAIN-SUFFIX,pingjs.qq.com # @ads
+DOMAIN-SUFFIX,pmir.3g.qq.com # @ads
+DOMAIN-SUFFIX,push.qq.com # @ads
+DOMAIN-SUFFIX,qqdata.ab.qq.com # @ads
+DOMAIN-SUFFIX,report.qqweb.qq.com # @ads
+DOMAIN-SUFFIX,report.tencentmusic.com # @ads
+DOMAIN-SUFFIX,rmonitor.qq.com # @ads
+DOMAIN-SUFFIX,sngmta.qq.com # @ads
+DOMAIN-SUFFIX,stat.y.qq.com # @ads
+DOMAIN-SUFFIX,tajs.qq.com # @ads
+DOMAIN-SUFFIX,tcss.qq.com # @ads
+DOMAIN-SUFFIX,tmead.y.qq.com # @ads
+DOMAIN-SUFFIX,tmeadcomm.y.qq.com # @ads
+DOMAIN-SUFFIX,tpstelemetry.tencent.com # @ads
+DOMAIN-SUFFIX,trace.qq.com # @ads
+DOMAIN-SUFFIX,ugdtimg.com # @ads
+DOMAIN-SUFFIX,wit.qq.com # @ads
+
+# include:tendcloud @ads
+
+DOMAIN-SUFFIX,tdsdk.cpatrk.net # @ads
+
+# include:twitter @ads
+DOMAIN-SUFFIX,ads-twitter.com # @ads
+
+# include:unity @ads
+
+# Ads/tracking
+DOMAIN-SUFFIX,iads.unity3d.com # @ads
+DOMAIN-SUFFIX,unityads.unity3d.com # @ads
+
+# include:unitychina @ads
+# 优三缔 / 优美缔 / 团结引擎
+
+# Ads/tracking
+DOMAIN-SUFFIX,ads.unitychina.cn # @ads
+DOMAIN-SUFFIX,splash-ads.cdn.unity.cn # @ads
+DOMAIN-SUFFIX,splash-ads.unitychina.cn # @ads
+DOMAIN-SUFFIX,unityads.unity.cn # @ads
+DOMAIN-SUFFIX,unityads.unitychina.cn # @ads
+
+# include:xhamster @ads
+
+# xhamsterlive thumbnails
+
+# Ads/tracking
+DOMAIN-SUFFIX,collector.xhamster.com # @ads
+
+# include:xiaomi @ads
+# include:xiaomi-ai
+
+# include:xiaomi-iot
+# Xiaomi IoT Services
+
+# 北京瓦力网络科技
+
+# 天星数科
+
+# 多看
+
+# 有品
+
+# 紫米
+
+# AppStore CDN
+
+# Overseas only
+
+# Ads/tracking
+DOMAIN-SUFFIX,a.market.xiaomi.com # @ads
+DOMAIN-SUFFIX,ad.intl.xiaomi.com # @ads
+DOMAIN-SUFFIX,ad.mi.com # @ads
+DOMAIN-SUFFIX,ad.xiaomi.com # @ads
+DOMAIN-SUFFIX,ad1.xiaomi.com # @ads
+DOMAIN-SUFFIX,admob.xiaomi.com # @ads
+DOMAIN-SUFFIX,adv.sec.intl.miui.com # @ads
+DOMAIN-SUFFIX,adv.sec.miui.com # @ads
+DOMAIN-SUFFIX,data.mistat.india.xiaomi.com # @ads
+DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com # @ads
+DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com # @ads
+DOMAIN-SUFFIX,data.mistat.xiaomi.com # @ads
+DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com # @ads
+DOMAIN-SUFFIX,misc.in.duokanbox.com # @ads
+DOMAIN-SUFFIX,sentry.d.mi.com # @ads
+DOMAIN-SUFFIX,sentry.d.xiaomi.net # @ads
+DOMAIN-SUFFIX,stats.music.xiaomi.com # @ads
+DOMAIN-SUFFIX,tjqonline.cn # @ads
+DOMAIN-SUFFIX,tracker.ai.xiaomi.com # @ads
+DOMAIN-SUFFIX,tracker.xiaomixiaoai.com # @ads
+DOMAIN-SUFFIX,tracking.miui.com # @ads
+
+# include:ximalaya @ads
+
+# Ads/tracking
+DOMAIN-SUFFIX,adbehavior.ximalaya.com # @ads
+DOMAIN-SUFFIX,adse.wsa.ximalaya.com # @ads
+DOMAIN-SUFFIX,adse.ximalaya.com # @ads
+
+# include:yahoo @ads
+# include:flickr
+# All .flickr domains
+
+# All .yahoo domains
+
+# Others
+
+# Ads/tracking
+DOMAIN-SUFFIX,ads.yahoo.com # @ads
+DOMAIN-SUFFIX,gemini.yahoo.com # @ads
+DOMAIN-SUFFIX,ysm.yahoo.com # @ads
+
+# include:zhihu @ads
+
+DOMAIN-SUFFIX,crash2.zhihu.com # @ads
+DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com # @ads
+
+# Other domains for ads serving
+DOMAIN-SUFFIX,51.la
+DOMAIN-SUFFIX,51y5.net
+DOMAIN-SUFFIX,a.adtng.com
+DOMAIN-SUFFIX,aaxads.com
+DOMAIN-SUFFIX,ad-srv.net
+DOMAIN-SUFFIX,ad.api.moji.com
+DOMAIN-SUFFIX,ad.wang502.com
+DOMAIN-SUFFIX,adbutter.net
+DOMAIN-SUFFIX,addthisedge.com
+DOMAIN-SUFFIX,ads.huan.tv
+DOMAIN-SUFFIX,ads.huantest.com
+DOMAIN-SUFFIX,ads.trafficjunky.net
+DOMAIN-SUFFIX,ads.wteam.xyz
+DOMAIN-SUFFIX,adservice.sigmob.cn
+DOMAIN-SUFFIX,adtechus.com
+DOMAIN-SUFFIX,adtrue.com
+DOMAIN-SUFFIX,adxprtz.com
+DOMAIN-SUFFIX,cdn.advertserve.com
+DOMAIN-SUFFIX,cdn.banclip.com
+DOMAIN-SUFFIX,cfts1tifqr.com
+DOMAIN-SUFFIX,contentabc.com
+DOMAIN-SUFFIX,cretgate.com
+DOMAIN-SUFFIX,data.flurry.com
+DOMAIN-SUFFIX,decide.mixpanel.com
+DOMAIN-SUFFIX,emogi.com
+DOMAIN-SUFFIX,ero-advertising.com
+DOMAIN-SUFFIX,eroadvertising.com
+DOMAIN-SUFFIX,evt.mxplay.com
+DOMAIN-SUFFIX,exoclick.com
+DOMAIN-SUFFIX,exosrv.com
+DOMAIN-SUFFIX,go2.global
+DOMAIN-SUFFIX,gozendata.com
+DOMAIN-SUFFIX,gz-data.com
+DOMAIN-SUFFIX,gzads.com
+DOMAIN-SUFFIX,img-bss.csdn.net
+DOMAIN-SUFFIX,imglnkc.com
+DOMAIN-SUFFIX,imglnkd.com
+DOMAIN-SUFFIX,inner-active.mobi
+DOMAIN-SUFFIX,innovid.com
+DOMAIN-SUFFIX,jads.co
+DOMAIN-SUFFIX,jl3.yjaxa.top
+DOMAIN-SUFFIX,js-agent.newrelic.com
+DOMAIN-SUFFIX,juicyads.com
+DOMAIN-SUFFIX,kepler-37b.com
+DOMAIN-SUFFIX,leanplum.com
+DOMAIN-SUFFIX,lqc006.com
+DOMAIN-SUFFIX,moat.com
+DOMAIN-SUFFIX,moatads.com
+DOMAIN-SUFFIX,mobwithad.com
+DOMAIN-SUFFIX,mopub.com
+DOMAIN-SUFFIX,onesignal.com
+DOMAIN-SUFFIX,realsrv.com
+DOMAIN-SUFFIX,s4yxaqyq95.com
+DOMAIN-SUFFIX,shhs-ydd8x2.yjrmss.cn
+DOMAIN-SUFFIX,ssp.api.tappx.com
+DOMAIN-SUFFIX,static.hotjar.com
+DOMAIN-SUFFIX,static.javhd.com
+DOMAIN-SUFFIX,tm-banners.gamingadult.com
+DOMAIN-SUFFIX,trafficfactory.biz
+DOMAIN-SUFFIX,tsyndicate.com
+DOMAIN-SUFFIX,uberads.com
+DOMAIN-SUFFIX,wwads.cn
+
+# 12306
+DOMAIN-SUFFIX,ad.12306.cn
+
+# 36Kr
+DOMAIN-SUFFIX,adx.36kr.com
+
+# AdHub
+DOMAIN-SUFFIX,hubcloud.com.cn
+
+# AdScope
+DOMAIN-SUFFIX,beizi.biz
+
+# ali213
+DOMAIN-SUFFIX,click.ali213.net
+DOMAIN-SUFFIX,pbmp.ali213.net
+
+# AppLovin
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,applvn.com
+
+# Caixin
+# regexp:^pinggai\d\.caixin\.com$
+DOMAIN,pinggai0.caixin.com
+DOMAIN,pinggai1.caixin.com
+DOMAIN,pinggai2.caixin.com
+DOMAIN,pinggai3.caixin.com
+DOMAIN,pinggai4.caixin.com
+DOMAIN,pinggai5.caixin.com
+DOMAIN,pinggai6.caixin.com
+DOMAIN,pinggai7.caixin.com
+DOMAIN,pinggai8.caixin.com
+DOMAIN,pinggai9.caixin.com
+
+# Chinaso
+DOMAIN-SUFFIX,adq.chinaso.com
+DOMAIN-SUFFIX,stat.chinaso.com
+
+# hiido
+DOMAIN-SUFFIX,mlog.hiido.com
+DOMAIN-SUFFIX,ylog.hiido.com
+
+# hpply
+DOMAIN-SUFFIX,ad.hpplay.cn
+DOMAIN-SUFFIX,adc.hpplay.cn
+DOMAIN-SUFFIX,adeng.hpplay.cn
+
+# Httpool
+DOMAIN-SUFFIX,toboads.com
+
+# ironSource Atom
+DOMAIN-SUFFIX,analytics-data.io
+DOMAIN-SUFFIX,atom-data.io
+DOMAIN-SUFFIX,ironbeast.io
+
+# joyplus
+DOMAIN-SUFFIX,advapi.joyplus.tv
+DOMAIN-SUFFIX,advapikj.joyplus.tv
+
+# pocoiq
+DOMAIN-SUFFIX,cdn.pocoiq.cn
+DOMAIN-SUFFIX,oct.pocoiq.cn
+
+# Qiniu
+DOMAIN-SUFFIX,dn-growing.qbox.me
+
+# tagtic
+DOMAIN-SUFFIX,g1.tagtic.cn
+DOMAIN-SUFFIX,xy-log.tagtic.cn
+
+# UNI Marketing
+DOMAIN-SUFFIX,ad.unimhk.com
+
+# UCloud
+DOMAIN-SUFFIX,das-rpt-log.ucloud.cn
+
+# 数字精准广告
+DOMAIN-SUFFIX,telecome.cn
+DOMAIN-SUFFIX,unioncom.cc
+
+# 亿帆广告
+DOMAIN-SUFFIX,yfanads.cn
+DOMAIN-SUFFIX,yfanads.com
+
+# 数字联盟(device ad id)
+DOMAIN-SUFFIX,shuzilm.cn
+
+# 中国广告协会CAID
+DOMAIN-SUFFIX,china-caa.org
+DOMAIN-SUFFIX,cnaa123.com
+DOMAIN-SUFFIX,chinaciaf.org
+DOMAIN-SUFFIX,iabchina.cn
+
+# 卓信id
+DOMAIN-SUFFIX,zxid-api.mobileservice.cn
+DOMAIN-SUFFIX,zxid-m.mobileservice.cn
+
+# 深演智能
+DOMAIN-SUFFIX,ipinyou.com
+DOMAIN-SUFFIX,ipinyou.com.cn
+
+# 智云众 OptAim
+DOMAIN-SUFFIX,optaim.com
+
+# 加和科技 AddNewer
+DOMAIN-SUFFIX,reachmax.cn
+
+# 热云数据
+DOMAIN-SUFFIX,reyun.com
+
+# 神策数据
+DOMAIN-SUFFIX,static.sensorsdata.cn
+
+# 诸葛io
+DOMAIN-SUFFIX,zhugeapi.com
+DOMAIN-SUFFIX,zhugeapi.net
+DOMAIN-SUFFIX,zhugeio.com
+
+# 酷云互动
+DOMAIN-SUFFIX,kuyun.com
+
+# 车来了
+DOMAIN-SUFFIX,atrace.chelaile.net.cn
+DOMAIN-SUFFIX,logs.chelaile.net.cn
+
+# 航旅纵横
+DOMAIN-SUFFIX,analytics.umetrip.com
+DOMAIN-SUFFIX,sensors.umetrip.com.cn
+

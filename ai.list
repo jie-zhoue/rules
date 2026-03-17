@@ -1,0 +1,240 @@
+# Time: 2026-03-17 08:41:13
+# Sources:
+#    /domain-list-community/data/category-ai-!cn
+#    /domain-list-community/data/anthropic
+#    /domain-list-community/data/bytedance-ai-!cn
+#    /domain-list-community/data/dola
+#    /domain-list-community/data/cerebras
+#    /domain-list-community/data/comfy
+#    /domain-list-community/data/comfy-ui-launcher
+#    /domain-list-community/data/cursor
+#    /domain-list-community/data/elevenlabs
+#    /domain-list-community/data/github-copilot
+#    /domain-list-community/data/google-deepmind
+#    /domain-list-community/data/groq
+#    /domain-list-community/data/huggingface
+#    /domain-list-community/data/liveperson
+#    /domain-list-community/data/manus
+#    /domain-list-community/data/openai
+#    /domain-list-community/data/perplexity
+#    /domain-list-community/data/poe
+#    /domain-list-community/data/windsurf
+#    /domain-list-community/data/xai
+#    /domain-list-community/data/youmind
+
+# include:anthropic
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudeusercontent.com
+
+# CDN
+DOMAIN,servd-anthropic-website.b-cdn.net
+
+# include:bytedance-ai-!cn
+# include:dola
+# Dola, formly ciciai, an AI service of bytedance
+DOMAIN-SUFFIX,cici.com # @!cn
+DOMAIN-SUFFIX,ciciai.com # @!cn
+DOMAIN-SUFFIX,ciciaicdn.com # @!cn
+DOMAIN-SUFFIX,dola.com # @!cn
+
+# related to doubao
+DOMAIN-SUFFIX,coze.com # @!cn
+
+# related to trae
+DOMAIN-SUFFIX,marscode.com # @!cn
+DOMAIN-SUFFIX,trae.ai # @!cn
+
+# include:cerebras
+DOMAIN-SUFFIX,cerebras.ai
+# include:comfy
+# include:comfy-ui-launcher
+# 绘世启动器
+DOMAIN-SUFFIX,oystermercury.top
+
+DOMAIN-SUFFIX,comfy.org
+
+# Dev
+DOMAIN-SUFFIX,comfyci.org
+
+# Redirect
+DOMAIN-SUFFIX,comfyregistry.org
+
+# include:cursor
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
+
+# include:elevenlabs
+DOMAIN-SUFFIX,elevenlabs.com
+DOMAIN-SUFFIX,elevenlabs.io
+
+# include:github-copilot
+DOMAIN-SUFFIX,githubcopilot.com
+# include:google-deepmind
+# Google DeepMind
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+
+# Google Generative Language API
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+
+# Google AI Studio
+DOMAIN,ai.google.dev
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,makersuite.google.com
+
+DOMAIN-SUFFIX,ai.studio
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,gemini.google.com
+
+# Gemini Code Assist
+# https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
+DOMAIN,cloudaicompanion.googleapis.com
+DOMAIN,cloudcode-pa.googleapis.com
+DOMAIN,daily-cloudcode-pa.googleapis.com
+
+# NotebookLM
+DOMAIN,notebooklm-pa.googleapis.com
+DOMAIN,notebooklm.googleapis.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+
+# Jules
+DOMAIN-SUFFIX,jules.google
+DOMAIN-SUFFIX,jules.google.com
+
+# Google AI Labs
+DOMAIN-SUFFIX,labs.google
+DOMAIN-SUFFIX,labs.google.com
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
+
+# Android Studio Gemini Code Assist
+DOMAIN-SUFFIX,aida.googleapis.com
+
+# Opal
+DOMAIN-SUFFIX,opal.google
+DOMAIN-SUFFIX,opal.google.com
+
+# Antigravity
+DOMAIN,antigravity-pa.googleapis.com
+DOMAIN,antigravity.googleapis.com
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,antigravity-unleash.goog
+
+# include:groq
+DOMAIN-SUFFIX,groq.com
+
+# include:huggingface
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,hf.space
+DOMAIN-SUFFIX,huggingface.co
+
+# include:liveperson
+DOMAIN-SUFFIX,liveperson.net
+DOMAIN-SUFFIX,lpsnmedia.net
+
+# include:manus
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,manuscdn.com
+
+# include:openai
+# Main domain
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,crixet.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,sora.com
+
+# CDN & API
+DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicom.imgix.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
+URL-REGEX,^https?://chatgpt-async-webps-prod-[^\t\n\r\f\v ]+-[0-9]+\.webpubsub\.azure\.com(/.*)?$
+
+# tracking
+DOMAIN,o33249.ingest.sentry.io # @ads
+DOMAIN,browser-intake-datadoghq.com # @ads
+
+# Advanced Voice
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,turn.livekit.cloud
+
+# include:perplexity
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
+DOMAIN-SUFFIX,pplx.ai
+
+DOMAIN,ppl-ai-file-upload.s3.amazonaws.com
+DOMAIN,pplx-res.cloudinary.com
+
+# include:poe
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net
+
+# include:windsurf
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,codeiumdata.com
+DOMAIN-SUFFIX,windsurf.build
+DOMAIN-SUFFIX,windsurf.com
+
+# include:xai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grok.x.com
+DOMAIN-SUFFIX,x.ai
+
+# include:youmind
+# Youmind
+DOMAIN-SUFFIX,youmind.ai
+DOMAIN-SUFFIX,youmind.com
+DOMAIN-SUFFIX,youmind.site
+
+# CodeRabbit
+DOMAIN-SUFFIX,coderabbit.ai
+DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
+
+# Cohere
+DOMAIN-SUFFIX,cohere.ai
+DOMAIN-SUFFIX,cohere.com
+
+# Jasper
+DOMAIN-SUFFIX,clipdrop.co
+DOMAIN-SUFFIX,jasper.ai
+
+DOMAIN-SUFFIX,chutes.ai
+DOMAIN-SUFFIX,clawhub.ai
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,devin.ai
+DOMAIN-SUFFIX,diabrowser.com
+DOMAIN-SUFFIX,diabrowser.engineering
+DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,duck.ai
+DOMAIN-SUFFIX,gateway.ai.cloudflare.com
+DOMAIN-SUFFIX,h2o.ai
+DOMAIN-SUFFIX,kiro.dev
+DOMAIN-SUFFIX,lovart.ai
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,openart.ai
+DOMAIN-SUFFIX,openclaw.ai
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,spicywriter.com
+
