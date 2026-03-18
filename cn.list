@@ -1,4 +1,4 @@
-# Time: 2026-03-17 10:40:59
+# Time: 2026-03-19 02:36:16
 # Sources:
 #    /domain-list-community/data/cn
 #    /domain-list-community/data/tld-cn
@@ -9360,4 +9360,7 @@ DOMAIN-SUFFIX,ao-x.ac.cn
 
 # 万集科技 京ICP备18036282号-2
 DOMAIN-SUFFIX,wanji.net.cn
+
+# 广州市雅望互联网服务有限公司
+DOMAIN-SUFFIX,gzyowin.com
 
