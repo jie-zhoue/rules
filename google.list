@@ -1,598 +1,33 @@
-# Time: 2026-03-19 02:36:16
+# Time: 2026-03-22 07:27:11
 # Sources:
 #    /domain-list-community/data/google
-#    /domain-list-community/data/android
-#    /domain-list-community/data/blogspot
-#    /domain-list-community/data/dart
-#    /domain-list-community/data/fastlane
-#    /domain-list-community/data/firebase
-#    /domain-list-community/data/flutter
-#    /domain-list-community/data/golang
-#    /domain-list-community/data/google-deepmind
 #    /domain-list-community/data/google-gemini
+#    /domain-list-community/data/google-deepmind
 #    /domain-list-community/data/google-play
 #    /domain-list-community/data/google-registry
 #    /domain-list-community/data/google-scholar
 #    /domain-list-community/data/google-trust-services
-#    /domain-list-community/data/googlefcm
-#    /domain-list-community/data/kaggle
-#    /domain-list-community/data/opensourceinsights
-#    /domain-list-community/data/polymer
-#    /domain-list-community/data/v8
-#    /domain-list-community/data/youtube
 
 # List of all domains being operated by Google Inc.
 # include:android
-# All .android domains
-DOMAIN-SUFFIX,android
-
-DOMAIN-SUFFIX,android.com
-DOMAIN-SUFFIX,androidify.com
-
-DOMAIN,android.googlesource.com
-
 # include:blogspot
-# Main domain which weblogs are registered in
-DOMAIN-SUFFIX,blogger.com
-DOMAIN-SUFFIX,blogblog.com
-
-# Subdomains which weblogs can be accessed from
-DOMAIN-SUFFIX,blogspot.ae
-DOMAIN-SUFFIX,blogspot.al
-DOMAIN-SUFFIX,blogspot.am
-DOMAIN-SUFFIX,blogspot.ba
-DOMAIN-SUFFIX,blogspot.be
-DOMAIN-SUFFIX,blogspot.bg
-DOMAIN-SUFFIX,blogspot.bj
-DOMAIN-SUFFIX,blogspot.ca
-DOMAIN-SUFFIX,blogspot.cf
-DOMAIN-SUFFIX,blogspot.ch
-DOMAIN-SUFFIX,blogspot.cl
-DOMAIN-SUFFIX,blogspot.co.at
-DOMAIN-SUFFIX,blogspot.co.id
-DOMAIN-SUFFIX,blogspot.co.il
-DOMAIN-SUFFIX,blogspot.co.ke
-DOMAIN-SUFFIX,blogspot.co.nz
-DOMAIN-SUFFIX,blogspot.co.uk
-DOMAIN-SUFFIX,blogspot.co.za
-DOMAIN-SUFFIX,blogspot.com
-DOMAIN-SUFFIX,blogspot.com.ar
-DOMAIN-SUFFIX,blogspot.com.au
-DOMAIN-SUFFIX,blogspot.com.br
-DOMAIN-SUFFIX,blogspot.com.by
-DOMAIN-SUFFIX,blogspot.com.co
-DOMAIN-SUFFIX,blogspot.com.cy
-DOMAIN-SUFFIX,blogspot.com.ee
-DOMAIN-SUFFIX,blogspot.com.eg
-DOMAIN-SUFFIX,blogspot.com.es
-DOMAIN-SUFFIX,blogspot.com.mt
-DOMAIN-SUFFIX,blogspot.com.ng
-DOMAIN-SUFFIX,blogspot.com.tr
-DOMAIN-SUFFIX,blogspot.com.uy
-DOMAIN-SUFFIX,blogspot.cv
-DOMAIN-SUFFIX,blogspot.cz
-DOMAIN-SUFFIX,blogspot.de
-DOMAIN-SUFFIX,blogspot.dk
-DOMAIN-SUFFIX,blogspot.fi
-DOMAIN-SUFFIX,blogspot.fr
-DOMAIN-SUFFIX,blogspot.gr
-DOMAIN-SUFFIX,blogspot.hk
-DOMAIN-SUFFIX,blogspot.hr
-DOMAIN-SUFFIX,blogspot.hu
-DOMAIN-SUFFIX,blogspot.ie
-DOMAIN-SUFFIX,blogspot.in
-DOMAIN-SUFFIX,blogspot.is
-DOMAIN-SUFFIX,blogspot.it
-DOMAIN-SUFFIX,blogspot.jp
-DOMAIN-SUFFIX,blogspot.kr
-DOMAIN-SUFFIX,blogspot.li
-DOMAIN-SUFFIX,blogspot.lt
-DOMAIN-SUFFIX,blogspot.lu
-DOMAIN-SUFFIX,blogspot.md
-DOMAIN-SUFFIX,blogspot.mk
-DOMAIN-SUFFIX,blogspot.mx
-DOMAIN-SUFFIX,blogspot.my
-DOMAIN-SUFFIX,blogspot.nl
-DOMAIN-SUFFIX,blogspot.no
-DOMAIN-SUFFIX,blogspot.pe
-DOMAIN-SUFFIX,blogspot.pt
-DOMAIN-SUFFIX,blogspot.qa
-DOMAIN-SUFFIX,blogspot.re
-DOMAIN-SUFFIX,blogspot.ro
-DOMAIN-SUFFIX,blogspot.rs
-DOMAIN-SUFFIX,blogspot.ru
-DOMAIN-SUFFIX,blogspot.se
-DOMAIN-SUFFIX,blogspot.sg
-DOMAIN-SUFFIX,blogspot.si
-DOMAIN-SUFFIX,blogspot.sk
-DOMAIN-SUFFIX,blogspot.sn
-DOMAIN-SUFFIX,blogspot.td
-DOMAIN-SUFFIX,blogspot.tw
-DOMAIN-SUFFIX,blogspot.ug
-DOMAIN-SUFFIX,blogspot.vn
-
-# Other related domains:
-DOMAIN-SUFFIX,blogger.googleusercontent.com
-
 # include:dart
-DOMAIN-SUFFIX,dart.dev
-DOMAIN-SUFFIX,dartlang.org
-DOMAIN-SUFFIX,dartpad.dev
-
 # include:fastlane
-DOMAIN-SUFFIX,fastlane.ci
-DOMAIN-SUFFIX,fastlane.tools
-
 # include:firebase
-DOMAIN-SUFFIX,firebase.com
-DOMAIN-SUFFIX,firebase.io
-DOMAIN-SUFFIX,firebaseapp.com
-DOMAIN-SUFFIX,firebaseio.com
-
-DOMAIN,firebase-settings.crashlytics.com # @cn
-DOMAIN,firebase.google.com
-DOMAIN,firebase.googleapis.com
-DOMAIN,firebaseappcheck.googleapis.com
-DOMAIN,firebasedynamiclinks-ipv4.googleapis.com
-DOMAIN,firebasedynamiclinks-ipv6.googleapis.com
-DOMAIN,firebasedynamiclinks.googleapis.com
-DOMAIN,firebaseinappmessaging.googleapis.com
-DOMAIN,firebaseinstallations.googleapis.com
-DOMAIN,firebaselogging-pa.googleapis.com
-DOMAIN,firebaselogging.googleapis.com
-DOMAIN,firebaseperusertopics-pa.googleapis.com
-DOMAIN,firebaseremoteconfig.googleapis.com
-
 # include:flutter
-DOMAIN-SUFFIX,flutter.dev
-DOMAIN-SUFFIX,flutterapp.com
-DOMAIN-SUFFIX,pub.dev
-
 # include:golang
-DOMAIN-SUFFIX,go-lang.com
-DOMAIN-SUFFIX,go-lang.net
-DOMAIN-SUFFIX,go-lang.org
-DOMAIN-SUFFIX,go.dev
-DOMAIN-SUFFIX,godoc.org
-DOMAIN-SUFFIX,golang.com
-DOMAIN-SUFFIX,golang.net
-DOMAIN-SUFFIX,golang.org
-
 # include:google-deepmind
-# Google DeepMind
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,deepmind.google
-
-# Google Generative Language API
-DOMAIN-SUFFIX,geller-pa.googleapis.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
-
-# Google AI Studio
-DOMAIN,ai.google.dev
-DOMAIN,alkalicore-pa.clients6.google.com
-DOMAIN,alkalimakersuite-pa.clients6.google.com
-DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
-DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,makersuite.google.com
-
-DOMAIN-SUFFIX,ai.studio
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,gemini.google
-DOMAIN-SUFFIX,gemini.google.com
-
-# Gemini Code Assist
-# https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
-DOMAIN,cloudaicompanion.googleapis.com
-DOMAIN,cloudcode-pa.googleapis.com
-DOMAIN,daily-cloudcode-pa.googleapis.com
-
-# NotebookLM
-DOMAIN,notebooklm-pa.googleapis.com
-DOMAIN,notebooklm.googleapis.com
-DOMAIN-SUFFIX,notebooklm.google
-DOMAIN-SUFFIX,notebooklm.google.com
-
-# Jules
-DOMAIN-SUFFIX,jules.google
-DOMAIN-SUFFIX,jules.google.com
-
-# Google AI Labs
-DOMAIN-SUFFIX,labs.google
-DOMAIN-SUFFIX,labs.google.com
-DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
-
-# Android Studio Gemini Code Assist
-DOMAIN-SUFFIX,aida.googleapis.com
-
-# Opal
-DOMAIN-SUFFIX,opal.google
-DOMAIN-SUFFIX,opal.google.com
-
-# Antigravity
-DOMAIN,antigravity-pa.googleapis.com
-DOMAIN,antigravity.googleapis.com
-DOMAIN-SUFFIX,antigravity.google
-DOMAIN-SUFFIX,antigravity-unleash.goog
-
 # include:google-gemini
-# This list is for backward compatibility
-
-# include:google-deepmind
-# Google DeepMind
-
-# Google Generative Language API
-
-# Google AI Studio
-
-# Gemini Code Assist
-# https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
-
-# NotebookLM
-
-# Jules
-
-# Google AI Labs
-
-# Android Studio Gemini Code Assist
-
-# Opal
-
-# Antigravity
-
 # include:google-play
-DOMAIN-SUFFIX,googleplay.com
-DOMAIN-SUFFIX,play-fe.googleapis.com
-DOMAIN-SUFFIX,play-games.googleusercontent.com
-DOMAIN-SUFFIX,play-lh.googleusercontent.com
-DOMAIN-SUFFIX,play.google.com
-DOMAIN-SUFFIX,play.googleapis.com
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-
-# if connect to services.googleapis.cn directly,
-# then these domains will be used.
-# 北京 (2x3)、上海 (ni5)、广州 (j5o)
-URL-REGEX,^https?://r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)[A-Za-z0-9_]{5}\.xn--ngstr-lra8j\.com(/.*)?$ # @cn
-# the same but DNS pollution in China mainland.
-URL-REGEX,^https?://r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)[A-Za-z0-9_]{5}\.googlevideo\.com(/.*)?$ # @cn
-
-DOMAIN,redirector.c.play.google.com # @cn
-
 # include:google-registry
-DOMAIN-SUFFIX,charlestonroadregistry.com
-DOMAIN-SUFFIX,crr.com
-DOMAIN-SUFFIX,registry.google
-
-DOMAIN-SUFFIX,get.app
-DOMAIN-SUFFIX,get.dev
-DOMAIN-SUFFIX,get.how
-DOMAIN-SUFFIX,get.new
-DOMAIN-SUFFIX,get.page
-DOMAIN-SUFFIX,get.rsvp
-DOMAIN-SUFFIX,hey.boo
-DOMAIN-SUFFIX,iam.soy
-DOMAIN-SUFFIX,new.day
-DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c # はじめよう.みんな
-
 # include:google-scholar
-DOMAIN,scholar.google.ae
-DOMAIN,scholar.google.at
-DOMAIN,scholar.google.be
-DOMAIN,scholar.google.bg
-DOMAIN,scholar.google.ca
-DOMAIN,scholar.google.cat
-DOMAIN,scholar.google.ch
-DOMAIN,scholar.google.cl
-DOMAIN,scholar.google.cn
-DOMAIN,scholar.google.co.cr
-DOMAIN,scholar.google.co.id
-DOMAIN,scholar.google.co.il
-DOMAIN,scholar.google.co.in
-DOMAIN,scholar.google.co.jp
-DOMAIN,scholar.google.co.kr
-DOMAIN,scholar.google.co.nz
-DOMAIN,scholar.google.co.th
-DOMAIN,scholar.google.co.uk
-DOMAIN,scholar.google.co.ve
-DOMAIN,scholar.google.co.za
-DOMAIN,scholar.google.com
-DOMAIN,scholar.google.com.ar
-DOMAIN,scholar.google.com.au
-DOMAIN,scholar.google.com.bo
-DOMAIN,scholar.google.com.br
-DOMAIN,scholar.google.com.co
-DOMAIN,scholar.google.com.cu
-DOMAIN,scholar.google.com.do
-DOMAIN,scholar.google.com.ec
-DOMAIN,scholar.google.com.eg
-DOMAIN,scholar.google.com.gt
-DOMAIN,scholar.google.com.hk
-DOMAIN,scholar.google.com.ly
-DOMAIN,scholar.google.com.mx
-DOMAIN,scholar.google.com.my
-DOMAIN,scholar.google.com.ni
-DOMAIN,scholar.google.com.pa
-DOMAIN,scholar.google.com.pe
-DOMAIN,scholar.google.com.ph
-DOMAIN,scholar.google.com.pk
-DOMAIN,scholar.google.com.pr
-DOMAIN,scholar.google.com.py
-DOMAIN,scholar.google.com.sg
-DOMAIN,scholar.google.com.sv
-DOMAIN,scholar.google.com.tr
-DOMAIN,scholar.google.com.tw
-DOMAIN,scholar.google.com.ua
-DOMAIN,scholar.google.com.uy
-DOMAIN,scholar.google.com.vn
-DOMAIN,scholar.google.cz
-DOMAIN,scholar.google.de
-DOMAIN,scholar.google.dk
-DOMAIN,scholar.google.es
-DOMAIN,scholar.google.fi
-DOMAIN,scholar.google.fr
-DOMAIN,scholar.google.gr
-DOMAIN,scholar.google.hn
-DOMAIN,scholar.google.hr
-DOMAIN,scholar.google.hu
-DOMAIN,scholar.google.is
-DOMAIN,scholar.google.it
-DOMAIN,scholar.google.li
-DOMAIN,scholar.google.lt
-DOMAIN,scholar.google.lu
-DOMAIN,scholar.google.lv
-DOMAIN,scholar.google.nl
-DOMAIN,scholar.google.no
-DOMAIN,scholar.google.pl
-DOMAIN,scholar.google.pt
-DOMAIN,scholar.google.ro
-DOMAIN,scholar.google.ru
-DOMAIN,scholar.google.se
-DOMAIN,scholar.google.si
-DOMAIN,scholar.google.sk
-DOMAIN,scholar.googleusercontent.com
-DOMAIN,scholar.l.google.com
-
 # include:google-trust-services
-DOMAIN-SUFFIX,pki.goog
-
-DOMAIN,pki-goog.l.google.com # @cn
-
-DOMAIN,c.pki.goog # @cn
-DOMAIN,i.pki.goog # @cn
-DOMAIN,o.pki.goog # @cn
-
-# Google Public CA API Endpoint
-DOMAIN,publicca.googleapis.com
-DOMAIN,preprod-publicca.googleapis.com
-
-# Deprecated earlier
-DOMAIN,clients1.google.com
-DOMAIN,pki.google.com
-
-# Deprecated recently
-DOMAIN,crl.pki.goog # @cn
-DOMAIN,crls.pki.goog # @cn
-DOMAIN,ocsp.pki.goog # @cn
-
 # include:googlefcm
-DOMAIN,alt1-mtalk.google.com # @!cn
-DOMAIN,alt2-mtalk.google.com # @!cn
-DOMAIN,alt3-mtalk.google.com # @!cn
-DOMAIN,alt4-mtalk.google.com # @!cn
-DOMAIN,alt5-mtalk.google.com # @!cn
-DOMAIN,alt6-mtalk.google.com # @!cn
-DOMAIN,alt7-mtalk.google.com
-DOMAIN,alt8-mtalk.google.com
-DOMAIN,mtalk-dev.google.com
-DOMAIN,mtalk-staging.google.com
-DOMAIN,mtalk.google.com # @!cn
-DOMAIN,mtalk4.google.com
-
 # include:kaggle
-DOMAIN-SUFFIX,kaggle.com
-DOMAIN-SUFFIX,kaggle.io
-DOMAIN-SUFFIX,kaggle.net
-DOMAIN-SUFFIX,kaggleusercontent.com
-
 # include:opensourceinsights
-DOMAIN-SUFFIX,deps.dev
-DOMAIN-SUFFIX,deps.info
-DOMAIN-SUFFIX,opensourceinsight.dev
-DOMAIN-SUFFIX,opensourceinsights.dev
-
 # include:polymer
-DOMAIN-SUFFIX,polymer-project.org
-DOMAIN-SUFFIX,polymerproject.org
-
 # include:v8
-DOMAIN-SUFFIX,v8.dev
-DOMAIN-SUFFIX,v8project.org
-
 # include:youtube
-# All .youtube domains
-DOMAIN-SUFFIX,youtube
-
-DOMAIN-SUFFIX,ggpht.cn # @cn
-DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,wide-youtube.l.google.com
-DOMAIN-SUFFIX,withyoutube.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,youtube-ui.l.google.com
-DOMAIN-SUFFIX,youtube.ae
-DOMAIN-SUFFIX,youtube.al
-DOMAIN-SUFFIX,youtube.am
-DOMAIN-SUFFIX,youtube.at
-DOMAIN-SUFFIX,youtube.az
-DOMAIN-SUFFIX,youtube.ba
-DOMAIN-SUFFIX,youtube.be
-DOMAIN-SUFFIX,youtube.bg
-DOMAIN-SUFFIX,youtube.bh
-DOMAIN-SUFFIX,youtube.bo
-DOMAIN-SUFFIX,youtube.by
-DOMAIN-SUFFIX,youtube.ca
-DOMAIN-SUFFIX,youtube.cat
-DOMAIN-SUFFIX,youtube.ch
-DOMAIN-SUFFIX,youtube.cl
-DOMAIN-SUFFIX,youtube.co
-DOMAIN-SUFFIX,youtube.co.ae
-DOMAIN-SUFFIX,youtube.co.at
-DOMAIN-SUFFIX,youtube.co.cr
-DOMAIN-SUFFIX,youtube.co.hu
-DOMAIN-SUFFIX,youtube.co.id
-DOMAIN-SUFFIX,youtube.co.il
-DOMAIN-SUFFIX,youtube.co.in
-DOMAIN-SUFFIX,youtube.co.jp
-DOMAIN-SUFFIX,youtube.co.ke
-DOMAIN-SUFFIX,youtube.co.kr
-DOMAIN-SUFFIX,youtube.co.ma
-DOMAIN-SUFFIX,youtube.co.nz
-DOMAIN-SUFFIX,youtube.co.th
-DOMAIN-SUFFIX,youtube.co.tz
-DOMAIN-SUFFIX,youtube.co.ug
-DOMAIN-SUFFIX,youtube.co.uk
-DOMAIN-SUFFIX,youtube.co.ve
-DOMAIN-SUFFIX,youtube.co.za
-DOMAIN-SUFFIX,youtube.co.zw
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,youtube.com.ar
-DOMAIN-SUFFIX,youtube.com.au
-DOMAIN-SUFFIX,youtube.com.az
-DOMAIN-SUFFIX,youtube.com.bd
-DOMAIN-SUFFIX,youtube.com.bh
-DOMAIN-SUFFIX,youtube.com.bo
-DOMAIN-SUFFIX,youtube.com.br
-DOMAIN-SUFFIX,youtube.com.by
-DOMAIN-SUFFIX,youtube.com.co
-DOMAIN-SUFFIX,youtube.com.do
-DOMAIN-SUFFIX,youtube.com.ec
-DOMAIN-SUFFIX,youtube.com.ee
-DOMAIN-SUFFIX,youtube.com.eg
-DOMAIN-SUFFIX,youtube.com.es
-DOMAIN-SUFFIX,youtube.com.gh
-DOMAIN-SUFFIX,youtube.com.gr
-DOMAIN-SUFFIX,youtube.com.gt
-DOMAIN-SUFFIX,youtube.com.hk
-DOMAIN-SUFFIX,youtube.com.hn
-DOMAIN-SUFFIX,youtube.com.hr
-DOMAIN-SUFFIX,youtube.com.jm
-DOMAIN-SUFFIX,youtube.com.jo
-DOMAIN-SUFFIX,youtube.com.kw
-DOMAIN-SUFFIX,youtube.com.lb
-DOMAIN-SUFFIX,youtube.com.lv
-DOMAIN-SUFFIX,youtube.com.ly
-DOMAIN-SUFFIX,youtube.com.mk
-DOMAIN-SUFFIX,youtube.com.mt
-DOMAIN-SUFFIX,youtube.com.mx
-DOMAIN-SUFFIX,youtube.com.my
-DOMAIN-SUFFIX,youtube.com.ng
-DOMAIN-SUFFIX,youtube.com.ni
-DOMAIN-SUFFIX,youtube.com.om
-DOMAIN-SUFFIX,youtube.com.pa
-DOMAIN-SUFFIX,youtube.com.pe
-DOMAIN-SUFFIX,youtube.com.ph
-DOMAIN-SUFFIX,youtube.com.pk
-DOMAIN-SUFFIX,youtube.com.pt
-DOMAIN-SUFFIX,youtube.com.py
-DOMAIN-SUFFIX,youtube.com.qa
-DOMAIN-SUFFIX,youtube.com.ro
-DOMAIN-SUFFIX,youtube.com.sa
-DOMAIN-SUFFIX,youtube.com.sg
-DOMAIN-SUFFIX,youtube.com.sv
-DOMAIN-SUFFIX,youtube.com.tn
-DOMAIN-SUFFIX,youtube.com.tr
-DOMAIN-SUFFIX,youtube.com.tw
-DOMAIN-SUFFIX,youtube.com.ua
-DOMAIN-SUFFIX,youtube.com.uy
-DOMAIN-SUFFIX,youtube.com.ve
-DOMAIN-SUFFIX,youtube.cr
-DOMAIN-SUFFIX,youtube.cz
-DOMAIN-SUFFIX,youtube.de
-DOMAIN-SUFFIX,youtube.dk
-DOMAIN-SUFFIX,youtube.ee
-DOMAIN-SUFFIX,youtube.es
-DOMAIN-SUFFIX,youtube.fi
-DOMAIN-SUFFIX,youtube.fr
-DOMAIN-SUFFIX,youtube.ge
-DOMAIN-SUFFIX,youtube.googleapis.com
-DOMAIN-SUFFIX,youtube.gr
-DOMAIN-SUFFIX,youtube.gt
-DOMAIN-SUFFIX,youtube.hk
-DOMAIN-SUFFIX,youtube.hr
-DOMAIN-SUFFIX,youtube.hu
-DOMAIN-SUFFIX,youtube.ie
-DOMAIN-SUFFIX,youtube.in
-DOMAIN-SUFFIX,youtube.iq
-DOMAIN-SUFFIX,youtube.is
-DOMAIN-SUFFIX,youtube.it
-DOMAIN-SUFFIX,youtube.jo
-DOMAIN-SUFFIX,youtube.jp
-DOMAIN-SUFFIX,youtube.kr
-DOMAIN-SUFFIX,youtube.kz
-DOMAIN-SUFFIX,youtube.la
-DOMAIN-SUFFIX,youtube.lk
-DOMAIN-SUFFIX,youtube.lt
-DOMAIN-SUFFIX,youtube.lu
-DOMAIN-SUFFIX,youtube.lv
-DOMAIN-SUFFIX,youtube.ly
-DOMAIN-SUFFIX,youtube.ma
-DOMAIN-SUFFIX,youtube.md
-DOMAIN-SUFFIX,youtube.me
-DOMAIN-SUFFIX,youtube.mk
-DOMAIN-SUFFIX,youtube.mn
-DOMAIN-SUFFIX,youtube.mx
-DOMAIN-SUFFIX,youtube.my
-DOMAIN-SUFFIX,youtube.ng
-DOMAIN-SUFFIX,youtube.ni
-DOMAIN-SUFFIX,youtube.nl
-DOMAIN-SUFFIX,youtube.no
-DOMAIN-SUFFIX,youtube.pa
-DOMAIN-SUFFIX,youtube.pe
-DOMAIN-SUFFIX,youtube.ph
-DOMAIN-SUFFIX,youtube.pk
-DOMAIN-SUFFIX,youtube.pl
-DOMAIN-SUFFIX,youtube.pr
-DOMAIN-SUFFIX,youtube.pt
-DOMAIN-SUFFIX,youtube.qa
-DOMAIN-SUFFIX,youtube.ro
-DOMAIN-SUFFIX,youtube.rs
-DOMAIN-SUFFIX,youtube.ru
-DOMAIN-SUFFIX,youtube.sa
-DOMAIN-SUFFIX,youtube.se
-DOMAIN-SUFFIX,youtube.sg
-DOMAIN-SUFFIX,youtube.si
-DOMAIN-SUFFIX,youtube.sk
-DOMAIN-SUFFIX,youtube.sn
-DOMAIN-SUFFIX,youtube.soy
-DOMAIN-SUFFIX,youtube.sv
-DOMAIN-SUFFIX,youtube.tn
-DOMAIN-SUFFIX,youtube.tv
-DOMAIN-SUFFIX,youtube.ua
-DOMAIN-SUFFIX,youtube.ug
-DOMAIN-SUFFIX,youtube.uy
-DOMAIN-SUFFIX,youtube.vn
-DOMAIN-SUFFIX,youtubeeducation.com
-DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
-DOMAIN-SUFFIX,youtubefanfest.com
-DOMAIN-SUFFIX,youtubegaming.com
-DOMAIN-SUFFIX,youtubego.co.id
-DOMAIN-SUFFIX,youtubego.co.in
-DOMAIN-SUFFIX,youtubego.com
-DOMAIN-SUFFIX,youtubego.com.br
-DOMAIN-SUFFIX,youtubego.id
-DOMAIN-SUFFIX,youtubego.in
-DOMAIN-SUFFIX,youtubei.googleapis.com
-DOMAIN-SUFFIX,youtubekids.com
-DOMAIN-SUFFIX,youtubemobilesupport.com
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN,yt3.googleusercontent.com
-
-# Ads/tracking
-DOMAIN-SUFFIX,ads.youtube.com # @ads
 
 # All .and domains
 # and (TLD application withdrawn by Google)
@@ -1103,12 +538,12 @@ DOMAIN-SUFFIX,womenwill.in
 DOMAIN-SUFFIX,womenwill.mx
 DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,x.team
-DOMAIN-SUFFIX,xn--9kr7l.com # 古博.com
-DOMAIN-SUFFIX,xn--9trs65b.com # 咕果.com
-DOMAIN-SUFFIX,xn--flw351e.com # 谷歌.com
-DOMAIN-SUFFIX,xn--ggle-55da.com # gооgle.com
-DOMAIN-SUFFIX,xn--gogl-0nd52e.com # gοoglе.com
-DOMAIN-SUFFIX,xn--gogl-1nd42e.com # goοglе.com
+DOMAIN-SUFFIX,xn--9kr7l.com
+DOMAIN-SUFFIX,xn--9trs65b.com
+DOMAIN-SUFFIX,xn--flw351e.com
+DOMAIN-SUFFIX,xn--ggle-55da.com
+DOMAIN-SUFFIX,xn--gogl-0nd52e.com
+DOMAIN-SUFFIX,xn--gogl-1nd42e.com
 DOMAIN-SUFFIX,xplr.co
 DOMAIN-SUFFIX,zukunftswerkstatt.de
 
@@ -1117,58 +552,6 @@ DOMAIN-SUFFIX,zukunftswerkstatt.de
 DOMAIN,google-ohttp-relay-safebrowsing.fastly-edge.com
 
 # Ads/tracking
-DOMAIN-SUFFIX,2mdn-cn.net # @ads
-DOMAIN-SUFFIX,2mdn.net # @ads
-DOMAIN-SUFFIX,admob-cn.com # @ads
-DOMAIN-SUFFIX,admob.com # @ads
-DOMAIN-SUFFIX,adsense.com # @ads
-DOMAIN-SUFFIX,adsensecustomsearchads.com # @ads
-DOMAIN-SUFFIX,adsenseformobileapps.com # @ads
-DOMAIN-SUFFIX,adservice.google.com # @ads
-DOMAIN-SUFFIX,adtrafficquality.google # @ads
-DOMAIN-SUFFIX,advertisercommunity.com # @ads
-DOMAIN-SUFFIX,advertiserscommunity.com # @ads
-DOMAIN-SUFFIX,adwords-community.com # @ads
-DOMAIN-SUFFIX,adwords.com # @ads
-DOMAIN-SUFFIX,adwordsexpress.com # @ads
-DOMAIN-SUFFIX,analytics-alv.google.com # @ads
-DOMAIN-SUFFIX,app-analytics-services.com # @ads
-DOMAIN-SUFFIX,app-analytics-services-att.com # @ads
-DOMAIN-SUFFIX,app-measurement-cn.com # @ads
-DOMAIN-SUFFIX,app-measurement.com # @ads
-DOMAIN-SUFFIX,doubleclick-cn.net # @ads
-DOMAIN-SUFFIX,doubleclick.cn # @ads
-DOMAIN-SUFFIX,doubleclick.com # @ads
-DOMAIN-SUFFIX,doubleclick.net # @ads
-DOMAIN-SUFFIX,fcmatch.google.com # @ads
-DOMAIN-SUFFIX,google-analytics-cn.com # @ads
-DOMAIN-SUFFIX,google-analytics.com # @ads
-DOMAIN-SUFFIX,googleadapis.com # @ads
-DOMAIN-SUFFIX,googleadapis.l.google.com # @ads
-DOMAIN-SUFFIX,googleads-cn.com # @ads
-DOMAIN-SUFFIX,googleads.com # @ads
-DOMAIN-SUFFIX,googleadservices-cn.com # @ads
-DOMAIN-SUFFIX,googleadservices.com # @ads
-DOMAIN-SUFFIX,googleadsserving.cn # @ads
-DOMAIN-SUFFIX,googleanalytics.com # @ads
-DOMAIN-SUFFIX,googleoptimize-cn.com # @ads
-DOMAIN-SUFFIX,googleoptimize.com # @ads
-DOMAIN-SUFFIX,googlesyndication-cn.com # @ads
-DOMAIN-SUFFIX,googlesyndication.com # @ads
-DOMAIN-SUFFIX,googletagmanager-cn.com # @ads
-DOMAIN-SUFFIX,googletagmanager.com # @ads
-DOMAIN-SUFFIX,googletagservices-cn.com # @ads
-DOMAIN-SUFFIX,googletagservices.com # @ads
-DOMAIN-SUFFIX,googletraveladservices-cn.com # @ads
-DOMAIN-SUFFIX,googletraveladservices.com # @ads
-DOMAIN-SUFFIX,googlevads-cn.com # @ads
-DOMAIN-SUFFIX,mail-ads.google.com # @ads
-DOMAIN-SUFFIX,mobileads.google.com # @ads
-DOMAIN-SUFFIX,marketingplatform.google.com # @ads
-DOMAIN-SUFFIX,pagead.l.google.com # @ads
-DOMAIN-SUFFIX,partnerad.l.google.com # @ads
-DOMAIN-SUFFIX,urchin.com # @ads
-DOMAIN,analytics.google.com # @ads
 # https://github.com/AdguardTeam/FiltersRegistry/pull/1154
 # full:fundingchoicesmessages.google.com @ads
 
@@ -1318,3 +701,216 @@ DOMAIN,www.gstatic.com # @cn
 DOMAIN,www.pxcc.com # @cn
 DOMAIN,xn--flw351e.com # @cn
 
+# This list is for backward compatibility
+
+# include:google-deepmind
+# Google DeepMind
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+
+# Google Generative Language API
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+
+# Google AI Studio
+DOMAIN,ai.google.dev
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,makersuite.google.com
+
+DOMAIN-SUFFIX,ai.studio
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,gemini.google.com
+
+# Gemini Code Assist
+# https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
+DOMAIN,cloudaicompanion.googleapis.com
+DOMAIN,cloudcode-pa.googleapis.com
+DOMAIN,daily-cloudcode-pa.googleapis.com
+
+# NotebookLM
+DOMAIN,notebooklm-pa.googleapis.com
+DOMAIN,notebooklm.googleapis.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+
+# Jules
+DOMAIN-SUFFIX,jules.google
+DOMAIN-SUFFIX,jules.google.com
+
+# Google AI Labs
+DOMAIN-SUFFIX,labs.google
+DOMAIN-SUFFIX,labs.google.com
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
+
+# Android Studio Gemini Code Assist
+DOMAIN-SUFFIX,aida.googleapis.com
+
+# Opal
+DOMAIN-SUFFIX,opal.google
+DOMAIN-SUFFIX,opal.google.com
+
+# Antigravity
+DOMAIN,antigravity-pa.googleapis.com
+DOMAIN,antigravity.googleapis.com
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,antigravity-unleash.goog
+
+
+# Google DeepMind
+
+# Google Generative Language API
+
+# Google AI Studio
+
+
+# Gemini Code Assist
+# https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
+
+# NotebookLM
+
+# Jules
+
+# Google AI Labs
+
+# Android Studio Gemini Code Assist
+
+# Opal
+
+# Antigravity
+
+DOMAIN-SUFFIX,googleplay.com
+DOMAIN-SUFFIX,play-fe.googleapis.com
+DOMAIN-SUFFIX,play-games.googleusercontent.com
+DOMAIN-SUFFIX,play-lh.googleusercontent.com
+DOMAIN-SUFFIX,play.google.com
+DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+
+# if connect to services.googleapis.cn directly,
+# then these domains will be used.
+# 北京 (2x3)、上海 (ni5)、广州 (j5o)
+URL-REGEX,^https?://r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)[A-Za-z0-9_]{5}\.xn--ngstr-lra8j\.com(/.*)?$ # @cn
+# the same but DNS pollution in China mainland.
+URL-REGEX,^https?://r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)[A-Za-z0-9_]{5}\.googlevideo\.com(/.*)?$ # @cn
+
+DOMAIN,redirector.c.play.google.com # @cn
+
+DOMAIN-SUFFIX,charlestonroadregistry.com
+DOMAIN-SUFFIX,crr.com
+DOMAIN-SUFFIX,registry.google
+
+DOMAIN-SUFFIX,get.app
+DOMAIN-SUFFIX,get.dev
+DOMAIN-SUFFIX,get.how
+DOMAIN-SUFFIX,get.new
+DOMAIN-SUFFIX,get.page
+DOMAIN-SUFFIX,get.rsvp
+DOMAIN-SUFFIX,hey.boo
+DOMAIN-SUFFIX,iam.soy
+DOMAIN-SUFFIX,new.day
+DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
+
+DOMAIN,scholar.google.ae
+DOMAIN,scholar.google.at
+DOMAIN,scholar.google.be
+DOMAIN,scholar.google.bg
+DOMAIN,scholar.google.ca
+DOMAIN,scholar.google.cat
+DOMAIN,scholar.google.ch
+DOMAIN,scholar.google.cl
+DOMAIN,scholar.google.cn
+DOMAIN,scholar.google.co.cr
+DOMAIN,scholar.google.co.id
+DOMAIN,scholar.google.co.il
+DOMAIN,scholar.google.co.in
+DOMAIN,scholar.google.co.jp
+DOMAIN,scholar.google.co.kr
+DOMAIN,scholar.google.co.nz
+DOMAIN,scholar.google.co.th
+DOMAIN,scholar.google.co.uk
+DOMAIN,scholar.google.co.ve
+DOMAIN,scholar.google.co.za
+DOMAIN,scholar.google.com
+DOMAIN,scholar.google.com.ar
+DOMAIN,scholar.google.com.au
+DOMAIN,scholar.google.com.bo
+DOMAIN,scholar.google.com.br
+DOMAIN,scholar.google.com.co
+DOMAIN,scholar.google.com.cu
+DOMAIN,scholar.google.com.do
+DOMAIN,scholar.google.com.ec
+DOMAIN,scholar.google.com.eg
+DOMAIN,scholar.google.com.gt
+DOMAIN,scholar.google.com.hk
+DOMAIN,scholar.google.com.ly
+DOMAIN,scholar.google.com.mx
+DOMAIN,scholar.google.com.my
+DOMAIN,scholar.google.com.ni
+DOMAIN,scholar.google.com.pa
+DOMAIN,scholar.google.com.pe
+DOMAIN,scholar.google.com.ph
+DOMAIN,scholar.google.com.pk
+DOMAIN,scholar.google.com.pr
+DOMAIN,scholar.google.com.py
+DOMAIN,scholar.google.com.sg
+DOMAIN,scholar.google.com.sv
+DOMAIN,scholar.google.com.tr
+DOMAIN,scholar.google.com.tw
+DOMAIN,scholar.google.com.ua
+DOMAIN,scholar.google.com.uy
+DOMAIN,scholar.google.com.vn
+DOMAIN,scholar.google.cz
+DOMAIN,scholar.google.de
+DOMAIN,scholar.google.dk
+DOMAIN,scholar.google.es
+DOMAIN,scholar.google.fi
+DOMAIN,scholar.google.fr
+DOMAIN,scholar.google.gr
+DOMAIN,scholar.google.hn
+DOMAIN,scholar.google.hr
+DOMAIN,scholar.google.hu
+DOMAIN,scholar.google.is
+DOMAIN,scholar.google.it
+DOMAIN,scholar.google.li
+DOMAIN,scholar.google.lt
+DOMAIN,scholar.google.lu
+DOMAIN,scholar.google.lv
+DOMAIN,scholar.google.nl
+DOMAIN,scholar.google.no
+DOMAIN,scholar.google.pl
+DOMAIN,scholar.google.pt
+DOMAIN,scholar.google.ro
+DOMAIN,scholar.google.ru
+DOMAIN,scholar.google.se
+DOMAIN,scholar.google.si
+DOMAIN,scholar.google.sk
+DOMAIN,scholar.googleusercontent.com
+DOMAIN,scholar.l.google.com
+
+DOMAIN-SUFFIX,pki.goog
+
+DOMAIN,pki-goog.l.google.com # @cn
+
+DOMAIN,c.pki.goog # @cn
+DOMAIN,i.pki.goog # @cn
+DOMAIN,o.pki.goog # @cn
+
+# Google Public CA API Endpoint
+DOMAIN,publicca.googleapis.com
+DOMAIN,preprod-publicca.googleapis.com
+
+# Deprecated earlier
+DOMAIN,clients1.google.com
+DOMAIN,pki.google.com
+
+# Deprecated recently
+DOMAIN,crl.pki.goog # @cn
+DOMAIN,crls.pki.goog # @cn
+DOMAIN,ocsp.pki.goog # @cn

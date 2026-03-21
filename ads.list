@@ -1,161 +1,161 @@
-# Time: 2026-03-19 02:36:16
+# Time: 2026-03-22 07:27:11
 # Sources:
-#    /domain-list-community/data/category-ads
+#    /domain-list-community/data/category-ads  @ads
 #    /domain-list-community/data/category-ads-ir
-#    /domain-list-community/data/acfun @ads
-#    /domain-list-community/data/adobe @ads
-#    /domain-list-community/data/adobe-activation @ads
-#    /domain-list-community/data/typekit @ads
-#    /domain-list-community/data/alibaba @ads
-#    /domain-list-community/data/9game @ads
-#    /domain-list-community/data/alibabacloud @ads
-#    /domain-list-community/data/aliyun @ads
-#    /domain-list-community/data/aliyun-drive @ads
-#    /domain-list-community/data/amap @ads
-#    /domain-list-community/data/cainiao @ads
-#    /domain-list-community/data/dingtalk @ads
-#    /domain-list-community/data/eleme @ads
-#    /domain-list-community/data/teambition @ads
-#    /domain-list-community/data/uc @ads
-#    /domain-list-community/data/umeng @ads
-#    /domain-list-community/data/youku @ads
-#    /domain-list-community/data/amazon @ads
-#    /domain-list-community/data/amazontrust @ads
-#    /domain-list-community/data/aws @ads
-#    /domain-list-community/data/aws-cn @ads
-#    /domain-list-community/data/imdb @ads
-#    /domain-list-community/data/kindle @ads
-#    /domain-list-community/data/primevideo @ads
-#    /domain-list-community/data/wholefoodsmarket @ads
-#    /domain-list-community/data/apple @ads
-#    /domain-list-community/data/apple-dev @ads
-#    /domain-list-community/data/swift @ads
-#    /domain-list-community/data/apple-pki @ads
-#    /domain-list-community/data/apple-tvplus @ads
-#    /domain-list-community/data/apple-update @ads
-#    /domain-list-community/data/beats @ads
-#    /domain-list-community/data/icloud @ads
-#    /domain-list-community/data/icloudprivaterelay @ads
-#    /domain-list-community/data/itunes @ads
-#    /domain-list-community/data/baidu @ads
-#    /domain-list-community/data/zuoyebang @ads
-#    /domain-list-community/data/bytedance @ads
-#    /domain-list-community/data/bytedance-ai-!cn @ads
-#    /domain-list-community/data/dola @ads
-#    /domain-list-community/data/doubao @ads
-#    /domain-list-community/data/douyin @ads
-#    /domain-list-community/data/fqnovel @ads
-#    /domain-list-community/data/juejin @ads
-#    /domain-list-community/data/lark @ads
-#    /domain-list-community/data/feishu @ads
-#    /domain-list-community/data/lark-global @ads
-#    /domain-list-community/data/tiktok @ads
-#    /domain-list-community/data/trae @ads
-#    /domain-list-community/data/volcengine @ads
-#    /domain-list-community/data/dongchedi @ads
-#    /domain-list-community/data/cctv @ads
-#    /domain-list-community/data/disney @ads
-#    /domain-list-community/data/abc @ads
-#    /domain-list-community/data/bamtech @ads
-#    /domain-list-community/data/espn @ads
-#    /domain-list-community/data/hotstar @ads
-#    /domain-list-community/data/marvel @ads
-#    /domain-list-community/data/nationalgeographic @ads
-#    /domain-list-community/data/starplus @ads
-#    /domain-list-community/data/dmm @ads
-#    /domain-list-community/data/dmm-porn @ads
-#    /domain-list-community/data/duolingo @ads
-#    /domain-list-community/data/gamersky @ads
-#    /domain-list-community/data/google @ads
-#    /domain-list-community/data/android @ads
-#    /domain-list-community/data/blogspot @ads
-#    /domain-list-community/data/dart @ads
-#    /domain-list-community/data/fastlane @ads
-#    /domain-list-community/data/firebase @ads
-#    /domain-list-community/data/flutter @ads
-#    /domain-list-community/data/golang @ads
-#    /domain-list-community/data/google-deepmind @ads
-#    /domain-list-community/data/google-gemini @ads
-#    /domain-list-community/data/google-play @ads
-#    /domain-list-community/data/google-registry @ads
-#    /domain-list-community/data/google-scholar @ads
-#    /domain-list-community/data/google-trust-services @ads
-#    /domain-list-community/data/googlefcm @ads
-#    /domain-list-community/data/kaggle @ads
-#    /domain-list-community/data/opensourceinsights @ads
-#    /domain-list-community/data/polymer @ads
-#    /domain-list-community/data/v8 @ads
-#    /domain-list-community/data/youtube @ads
-#    /domain-list-community/data/hetzner @ads
-#    /domain-list-community/data/hunantv @ads
-#    /domain-list-community/data/iqiyi @ads
-#    /domain-list-community/data/jd @ads
-#    /domain-list-community/data/kuaishou @ads
-#    /domain-list-community/data/kugou @ads
-#    /domain-list-community/data/le @ads
-#    /domain-list-community/data/meta @ads
-#    /domain-list-community/data/facebook @ads
-#    /domain-list-community/data/facebook-dev @ads
-#    /domain-list-community/data/instagram @ads
-#    /domain-list-community/data/messenger @ads
-#    /domain-list-community/data/oculus @ads
-#    /domain-list-community/data/threads @ads
-#    /domain-list-community/data/whatsapp @ads
-#    /domain-list-community/data/microsoft @ads
-#    /domain-list-community/data/azure @ads
-#    /domain-list-community/data/bing @ads
-#    /domain-list-community/data/github @ads
-#    /domain-list-community/data/github-copilot @ads
-#    /domain-list-community/data/npmjs @ads
-#    /domain-list-community/data/microsoft-dev @ads
-#    /domain-list-community/data/microsoft-pki @ads
-#    /domain-list-community/data/msn @ads
-#    /domain-list-community/data/onedrive @ads
-#    /domain-list-community/data/xbox @ads
-#    /domain-list-community/data/asobo @ads
-#    /domain-list-community/data/bethesda @ads
-#    /domain-list-community/data/forza @ads
-#    /domain-list-community/data/mojang @ads
-#    /domain-list-community/data/mihoyo @ads
-#    /domain-list-community/data/hoyoverse @ads
-#    /domain-list-community/data/mihoyo-cn @ads
-#    /domain-list-community/data/netease @ads
-#    /domain-list-community/data/ookla-speedtest @ads
-#    /domain-list-community/data/openai @ads
-#    /domain-list-community/data/picacg @ads
-#    /domain-list-community/data/pikpak @ads
-#    /domain-list-community/data/pixiv @ads
-#    /domain-list-community/data/qihoo360 @ads
-#    /domain-list-community/data/starworld @ads
-#    /domain-list-community/data/samsung @ads
-#    /domain-list-community/data/sina @ads
-#    /domain-list-community/data/snap @ads
-#    /domain-list-community/data/sohu @ads
-#    /domain-list-community/data/sogou @ads
-#    /domain-list-community/data/spotify @ads
-#    /domain-list-community/data/tcl @ads
-#    /domain-list-community/data/tencent @ads
-#    /domain-list-community/data/qcloud @ads
-#    /domain-list-community/data/discuz @ads
-#    /domain-list-community/data/dnspod @ads
-#    /domain-list-community/data/tencent-dev @ads
-#    /domain-list-community/data/cnb @ads
-#    /domain-list-community/data/coding @ads
-#    /domain-list-community/data/tencent-games @ads
-#    /domain-list-community/data/yuewen @ads
-#    /domain-list-community/data/webnovel @ads
-#    /domain-list-community/data/tendcloud @ads
-#    /domain-list-community/data/twitter @ads
-#    /domain-list-community/data/unity @ads
-#    /domain-list-community/data/unitychina @ads
-#    /domain-list-community/data/xhamster @ads
-#    /domain-list-community/data/xiaomi @ads
-#    /domain-list-community/data/xiaomi-ai @ads
-#    /domain-list-community/data/xiaomi-iot @ads
-#    /domain-list-community/data/ximalaya @ads
-#    /domain-list-community/data/yahoo @ads
-#    /domain-list-community/data/flickr @ads
-#    /domain-list-community/data/zhihu @ads
+#    /domain-list-community/data/acfun  @ads
+#    /domain-list-community/data/adobe  @ads
+#    /domain-list-community/data/adobe-activation
+#    /domain-list-community/data/typekit
+#    /domain-list-community/data/alibaba  @ads
+#    /domain-list-community/data/9game
+#    /domain-list-community/data/alibabacloud
+#    /domain-list-community/data/aliyun
+#    /domain-list-community/data/aliyun-drive
+#    /domain-list-community/data/amap
+#    /domain-list-community/data/cainiao
+#    /domain-list-community/data/dingtalk
+#    /domain-list-community/data/eleme
+#    /domain-list-community/data/teambition
+#    /domain-list-community/data/uc
+#    /domain-list-community/data/umeng
+#    /domain-list-community/data/youku
+#    /domain-list-community/data/amazon  @ads
+#    /domain-list-community/data/amazontrust
+#    /domain-list-community/data/aws
+#    /domain-list-community/data/aws-cn
+#    /domain-list-community/data/imdb
+#    /domain-list-community/data/kindle
+#    /domain-list-community/data/primevideo
+#    /domain-list-community/data/wholefoodsmarket
+#    /domain-list-community/data/apple  @ads
+#    /domain-list-community/data/apple-dev
+#    /domain-list-community/data/swift
+#    /domain-list-community/data/apple-pki
+#    /domain-list-community/data/apple-tvplus
+#    /domain-list-community/data/apple-update
+#    /domain-list-community/data/beats
+#    /domain-list-community/data/icloud
+#    /domain-list-community/data/icloudprivaterelay
+#    /domain-list-community/data/itunes
+#    /domain-list-community/data/baidu  @ads
+#    /domain-list-community/data/zuoyebang
+#    /domain-list-community/data/bytedance  @ads
+#    /domain-list-community/data/bytedance-ai-!cn
+#    /domain-list-community/data/dola
+#    /domain-list-community/data/doubao
+#    /domain-list-community/data/douyin
+#    /domain-list-community/data/fqnovel
+#    /domain-list-community/data/juejin
+#    /domain-list-community/data/lark
+#    /domain-list-community/data/feishu
+#    /domain-list-community/data/lark-global
+#    /domain-list-community/data/tiktok
+#    /domain-list-community/data/trae
+#    /domain-list-community/data/volcengine
+#    /domain-list-community/data/dongchedi
+#    /domain-list-community/data/cctv  @ads
+#    /domain-list-community/data/disney  @ads
+#    /domain-list-community/data/abc
+#    /domain-list-community/data/bamtech
+#    /domain-list-community/data/espn
+#    /domain-list-community/data/hotstar
+#    /domain-list-community/data/marvel
+#    /domain-list-community/data/nationalgeographic
+#    /domain-list-community/data/starplus
+#    /domain-list-community/data/dmm  @ads
+#    /domain-list-community/data/dmm-porn
+#    /domain-list-community/data/duolingo  @ads
+#    /domain-list-community/data/gamersky  @ads
+#    /domain-list-community/data/google  @ads
+#    /domain-list-community/data/android
+#    /domain-list-community/data/blogspot
+#    /domain-list-community/data/dart
+#    /domain-list-community/data/fastlane
+#    /domain-list-community/data/firebase
+#    /domain-list-community/data/flutter
+#    /domain-list-community/data/golang
+#    /domain-list-community/data/google-deepmind
+#    /domain-list-community/data/google-gemini
+#    /domain-list-community/data/google-play
+#    /domain-list-community/data/google-registry
+#    /domain-list-community/data/google-scholar
+#    /domain-list-community/data/google-trust-services
+#    /domain-list-community/data/googlefcm
+#    /domain-list-community/data/kaggle
+#    /domain-list-community/data/opensourceinsights
+#    /domain-list-community/data/polymer
+#    /domain-list-community/data/v8
+#    /domain-list-community/data/youtube
+#    /domain-list-community/data/hetzner  @ads
+#    /domain-list-community/data/hunantv  @ads
+#    /domain-list-community/data/iqiyi  @ads
+#    /domain-list-community/data/jd  @ads
+#    /domain-list-community/data/kuaishou  @ads
+#    /domain-list-community/data/kugou  @ads
+#    /domain-list-community/data/le  @ads
+#    /domain-list-community/data/meta  @ads
+#    /domain-list-community/data/facebook
+#    /domain-list-community/data/facebook-dev
+#    /domain-list-community/data/instagram
+#    /domain-list-community/data/messenger
+#    /domain-list-community/data/oculus
+#    /domain-list-community/data/threads
+#    /domain-list-community/data/whatsapp
+#    /domain-list-community/data/microsoft  @ads
+#    /domain-list-community/data/azure
+#    /domain-list-community/data/bing
+#    /domain-list-community/data/github
+#    /domain-list-community/data/github-copilot
+#    /domain-list-community/data/npmjs
+#    /domain-list-community/data/microsoft-dev
+#    /domain-list-community/data/microsoft-pki
+#    /domain-list-community/data/msn
+#    /domain-list-community/data/onedrive
+#    /domain-list-community/data/xbox
+#    /domain-list-community/data/asobo
+#    /domain-list-community/data/bethesda
+#    /domain-list-community/data/forza
+#    /domain-list-community/data/mojang
+#    /domain-list-community/data/mihoyo  @ads
+#    /domain-list-community/data/hoyoverse
+#    /domain-list-community/data/mihoyo-cn
+#    /domain-list-community/data/netease  @ads
+#    /domain-list-community/data/ookla-speedtest  @ads
+#    /domain-list-community/data/openai  @ads
+#    /domain-list-community/data/picacg  @ads
+#    /domain-list-community/data/pikpak  @ads
+#    /domain-list-community/data/pixiv  @ads
+#    /domain-list-community/data/qihoo360  @ads
+#    /domain-list-community/data/starworld
+#    /domain-list-community/data/samsung  @ads
+#    /domain-list-community/data/sina  @ads
+#    /domain-list-community/data/snap  @ads
+#    /domain-list-community/data/sohu  @ads
+#    /domain-list-community/data/sogou
+#    /domain-list-community/data/spotify  @ads
+#    /domain-list-community/data/tcl  @ads
+#    /domain-list-community/data/tencent  @ads
+#    /domain-list-community/data/qcloud
+#    /domain-list-community/data/discuz
+#    /domain-list-community/data/dnspod
+#    /domain-list-community/data/tencent-dev
+#    /domain-list-community/data/cnb
+#    /domain-list-community/data/coding
+#    /domain-list-community/data/tencent-games
+#    /domain-list-community/data/yuewen
+#    /domain-list-community/data/webnovel
+#    /domain-list-community/data/tendcloud  @ads
+#    /domain-list-community/data/twitter  @ads
+#    /domain-list-community/data/unity  @ads
+#    /domain-list-community/data/unitychina  @ads
+#    /domain-list-community/data/xhamster  @ads
+#    /domain-list-community/data/xiaomi  @ads
+#    /domain-list-community/data/xiaomi-ai
+#    /domain-list-community/data/xiaomi-iot
+#    /domain-list-community/data/ximalaya  @ads
+#    /domain-list-community/data/yahoo  @ads
+#    /domain-list-community/data/flickr
+#    /domain-list-community/data/zhihu  @ads
 
 # This file contains domains that clearly serving ads
 # include:category-ads-ir
@@ -169,8 +169,10 @@ DOMAIN-SUFFIX,sabavision.com
 DOMAIN-SUFFIX,tapsell.ir
 DOMAIN-SUFFIX,yektanet.com
 
+
 # include:acfun @ads
 # Beijing Danmu Network Technology Co., Ltd.
+
 
 # Ads/tracking
 DOMAIN,apilog-web.acfun.cn # @ads
@@ -188,6 +190,8 @@ DOMAIN,apilog-web.acfun.cn # @ads
 # Adobe online activation domains
 
 # include:typekit
+
+
 
 # Adobe Dev
 
@@ -224,6 +228,7 @@ DOMAIN-SUFFIX,tubemogul.com # @ads
 # include:alibabacloud
 
 # include:aliyun
+
 
 # Ads/tracking
 DOMAIN-SUFFIX,acjs.aliyun.com # @ads
@@ -302,6 +307,9 @@ DOMAIN-SUFFIX,z.gds.cnzz.com # @ads
 # include:youku
 # youku uses some alicdn services, so this must use with domain list "alibaba"
 
+
+
+
 # youku video cdn
 
 # Ads/tracking
@@ -326,6 +334,8 @@ DOMAIN-SUFFIX,statis.api.3g.youku.com # @ads
 DOMAIN-SUFFIX,v6-adashx.ut.youku.com # @ads
 DOMAIN-SUFFIX,yk-ssp.ad.youku.com # @ads
 DOMAIN-SUFFIX,ykad-data.youku.com # @ads
+
+
 
 # AliExpress
 
@@ -400,6 +410,8 @@ DOMAIN-SUFFIX,v6-adashx.ut.taobao.com # @ads
 # AWS CN DNS
 # regexp:.+\.amzndns-cn\.(biz|cn|com|net)$ @cn
 
+
+
 # All .aws domains
 
 # AWS
@@ -407,8 +419,10 @@ DOMAIN-SUFFIX,v6-adashx.ut.taobao.com # @ads
 # AWS DNS
 # regexp:.+\.amzndns\.(co\.uk|com|net|org)$
 
+
 # include:imdb
 # All .imdb domains
+
 
 # include:kindle
 # All .kindle domains
@@ -417,7 +431,10 @@ DOMAIN-SUFFIX,v6-adashx.ut.taobao.com # @ads
 # include:primevideo
 # Prime Video
 
+
+
 # include:wholefoodsmarket
+
 
 # All .amazon domains
 
@@ -429,19 +446,22 @@ DOMAIN-SUFFIX,v6-adashx.ut.taobao.com # @ads
 
 # All .zappos domains
 
+
 # Alexa
 
 # Audible
 
 # CreateSpace
 
+
 # Ads/tracking
 DOMAIN-SUFFIX,amazon-adsystem.com # @ads
 DOMAIN-SUFFIX,serving-sys.com # @ads
 
 # include:apple @ads
-# include: apple-dev # # swift inside
+# include:apple-dev # swift inside
 # include:swift
+
 
 # Calendar and Contact Server
 
@@ -469,23 +489,33 @@ DOMAIN-SUFFIX,serving-sys.com # @ads
 
 # Other
 
+
+
 # Not include:apple-intelligence
 # include:apple-pki
 
 # include:apple-tvplus
 # Apple TV+
 
+
 # include:apple-update
 # https://support.apple.com/en-us/HT210060
 
+
 # include:beats
+
 
 # include:icloud
 # include:icloudprivaterelay
 
+
+
+
 # include:itunes
 
+
 # All .apple domains
+
 
 # Apple Store
 
@@ -531,6 +561,7 @@ DOMAIN-SUFFIX,serving-sys.com # @ads
 
 # Others
 
+
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:apple@cn"
 
@@ -565,7 +596,9 @@ DOMAIN-SUFFIX,qwapi.com # @ads
 # Ads/tracking
 DOMAIN-SUFFIX,syh.zybang.com # @ads
 
+
 # All .baidu domains
+
 
 # 度小满
 
@@ -624,9 +657,10 @@ DOMAIN-SUFFIX,wm.baidu.com # @ads
 DOMAIN-SUFFIX,zz.bdstatic.com # @ads
 
 # include:bytedance @ads
-# include: bytedance-ai-!cn # # not serving for cn
+# include:bytedance-ai-!cn # not serving for cn
 # include:dola
 # Dola, formly ciciai, an AI service of bytedance
+
 
 # related to doubao
 
@@ -636,13 +670,14 @@ DOMAIN-SUFFIX,zz.bdstatic.com # @ads
 # 北京春田知韵科技有限公司 京ICP备2023020373号
 # non-cn domains is added to bytedance-ai-!cn
 
-# include: douyin # # douyin, huoshan and qishuimusic inside
+# include:douyin # douyin, huoshan and qishuimusic inside
 # 北京抖音科技有限公司 京ICP备16016397号
 # 抖音、抖音火山版、汽水音乐
 
 # 抖音支付
 
 # include:fqnovel
+
 
 # Ads/tracking
 DOMAIN,ads3-normal-hl.zijieapi.com # @ads
@@ -663,14 +698,18 @@ DOMAIN,rtlog5-applog.fqnovel.com # @ads
 
 # include:juejin
 
-# include: lark # # feishu is included in lark
+
+# include:lark # feishu is included in lark
 # This tag 'lark' is for backward compatibility
 
 # include:feishu
 
 # include:lark-global
 
-# include: tiktok # # not serving for cn
+
+
+# include:tiktok # not serving for cn
+
 
 # Ads/tracking
 DOMAIN-SUFFIX,analytics.tiktok.com # @!cn @ads
@@ -680,6 +719,9 @@ DOMAIN-SUFFIX,analytics.tiktok.com # @!cn @ads
 # non-cn domains is added to bytedance-ai-!cn
 
 # include:volcengine
+
+
+
 
 # 今日头条
 
@@ -692,6 +734,7 @@ DOMAIN-SUFFIX,analytics.tiktok.com # @!cn @ads
 # 懂车帝
 # include:dongchedi
 # 渝ICP备2023013619号
+
 
 # 阳关宽频网
 
@@ -753,17 +796,23 @@ DOMAIN-SUFFIX,ad.cctv.com # @ads
 # include:abc
 # American Broadcasting Company
 
+
 # include:bamtech
 
 # include:espn
 
+
 # include:hotstar
+
 
 # include:marvel
 
 # include:nationalgeographic
 
 # include:starplus
+
+
+
 
 # Others
 
@@ -772,6 +821,8 @@ DOMAIN,disney.my.sentry.io # @ads
 
 # include:dmm @ads
 # include:dmm-porn
+
+
 
 # Ads/tracking
 # Refer: https://tonahazana.com/kancolle-2nd-weight-saving
@@ -808,6 +859,8 @@ DOMAIN-SUFFIX,wmbd.gamersky.com # @ads
 # include:android
 # All .android domains
 
+
+
 # include:blogspot
 # Main domain which weblogs are registered in
 
@@ -821,6 +874,7 @@ DOMAIN-SUFFIX,wmbd.gamersky.com # @ads
 
 # include:firebase
 
+
 # include:flutter
 
 # include:golang
@@ -831,6 +885,7 @@ DOMAIN-SUFFIX,wmbd.gamersky.com # @ads
 # Google Generative Language API
 
 # Google AI Studio
+
 
 # Gemini Code Assist
 # https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
@@ -851,26 +906,6 @@ DOMAIN-SUFFIX,wmbd.gamersky.com # @ads
 # This list is for backward compatibility
 
 # include:google-deepmind
-# Google DeepMind
-
-# Google Generative Language API
-
-# Google AI Studio
-
-# Gemini Code Assist
-# https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
-
-# NotebookLM
-
-# Jules
-
-# Google AI Labs
-
-# Android Studio Gemini Code Assist
-
-# Opal
-
-# Antigravity
 
 # include:google-play
 
@@ -879,11 +914,15 @@ DOMAIN-SUFFIX,wmbd.gamersky.com # @ads
 # 北京 (2x3)、上海 (ni5)、广州 (j5o)
 # the same but DNS pollution in China mainland.
 
+
 # include:google-registry
+
 
 # include:google-scholar
 
 # include:google-trust-services
+
+
 
 # Google Public CA API Endpoint
 
@@ -904,8 +943,10 @@ DOMAIN-SUFFIX,wmbd.gamersky.com # @ads
 # include:youtube
 # All .youtube domains
 
+
 # Ads/tracking
 DOMAIN-SUFFIX,ads.youtube.com # @ads
+
 
 # All .and domains
 # and (TLD application withdrawn by Google)
@@ -1086,12 +1127,14 @@ DOMAIN-SUFFIX,g3.letv.com # @ads
 
 # Workplace
 
+
 # Ads/tracking
 DOMAIN-SUFFIX,analytics.facebook.com # @ads
 DOMAIN-SUFFIX,facebookads.com # @ads
 DOMAIN-SUFFIX,pixel.facebook.com # @ads
 
 # include:facebook-dev
+
 
 # include:instagram
 
@@ -1111,11 +1154,15 @@ DOMAIN-SUFFIX,graph-fallback.instagram.com # @ads
 DOMAIN-SUFFIX,graph.whatsapp.com # @ads
 DOMAIN-SUFFIX,graph.whatsapp.net # @ads
 
+
+
 # include:microsoft @ads
 # include:azure
 # All .azure domains
 
+
 # regexp:.+\.azchcdn[a-s]\.com$ @cn
+
 
 # Azure DNS
 
@@ -1126,11 +1173,16 @@ DOMAIN-SUFFIX,graph.whatsapp.net # @ads
 
 DOMAIN-SUFFIX,bingads.com # @ads
 
+
+
 # include:github
 # include:github-copilot
 # include:npmjs
 
+
+
 # GitHub Actions Artifacts
+
 
 # Ads/tracking
 DOMAIN-SUFFIX,collector.github.com # @ads
@@ -1138,7 +1190,9 @@ DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com # @ads
 
 # include:microsoft-dev
 
+
 # include:microsoft-pki
+
 
 # include:msn
 
@@ -1148,8 +1202,10 @@ DOMAIN-SUFFIX,browser.events.data.msn.com # @ads
 
 # include:onedrive
 
+
 # include:xbox
 # include:asobo
+
 
 # include:bethesda
 
@@ -1159,9 +1215,13 @@ DOMAIN-SUFFIX,browser.events.data.msn.com # @ads
 
 # include:forza
 
+
 # include:mojang
 
+
 # All .xbox domains
+
+
 
 # All .microsoft domains
 
@@ -1172,6 +1232,7 @@ DOMAIN-SUFFIX,browser.events.data.msn.com # @ads
 # All .skype domains
 
 # All .windows domains
+
 
 # M12
 
@@ -1187,6 +1248,7 @@ DOMAIN-SUFFIX,nelreports.net # @ads
 
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:microsoft@cn"
+
 
 # include:mihoyo @ads
 # include:hoyoverse
@@ -1229,6 +1291,7 @@ DOMAIN-SUFFIX,log-upload-os.hoyoverse.com # @ads
 # Ads/tracking
 DOMAIN-SUFFIX,log-upload.mihoyo.com # @ads
 
+
 # include:netease @ads
 
 # Ads/tracking
@@ -1246,6 +1309,7 @@ DOMAIN-SUFFIX,iadmusicmatvideo.music.126.net # @ads
 DOMAIN-SUFFIX,sentry.music.163.com # @ads
 
 # include:ookla-speedtest @ads
+
 
 # SpeedTest Node
 
@@ -1282,6 +1346,9 @@ DOMAIN-SUFFIX,ads-pixiv.net # @ads
 # include:qihoo360 @ads
 # include:starworld
 # StarWorld Games is a wholly owned subsidiary of Qihoo 360
+
+
+
 
 # 北方矢量
 
@@ -1335,6 +1402,8 @@ DOMAIN-SUFFIX,wbclick.mobile.sina.cn # @ads
 # include:snap @ads
 DOMAIN-SUFFIX,snapads.com # @ads
 
+
+
 # include:sohu @ads
 # include:sogou
 
@@ -1348,7 +1417,9 @@ DOMAIN-SUFFIX,theta.sogoucdn.com # @ads
 DOMAIN-SUFFIX,uranus.sogou.com # @ads
 DOMAIN-SUFFIX,wuliao.epro.sogou.com # @ads
 
+
 # All .sohu domains
+
 
 # 56网
 
@@ -1371,6 +1442,7 @@ DOMAIN-SUFFIX,reke.at.sohu.com # @ads
 DOMAIN-SUFFIX,track.sohu.com # @ads
 
 # include:spotify @ads
+
 
 # Ads/tracking
 DOMAIN,adeventtracker.spotify.com # @ads
@@ -1395,20 +1467,38 @@ DOMAIN-SUFFIX,hwads-t.api.my7v.com # @ads
 DOMAIN-SUFFIX,testads.api.my7v.com # @ads
 
 # include:tencent @ads
-# include: qcloud # #腾讯云
+# include:qcloud #腾讯云
 # include:discuz
 
 # include:dnspod
+
+
 
 # regexp:.+\.dnse[0-5]\.(cn|com)$
 
 # regexp:.+\.tdnsv([1-9]|1[0-5])\.(com|net)$
 
 # myqcloud inside mainland China
+# overrided by myqcloud.com
+#regexp:\.(.+-)?ap-beijing(-.+)?\.myqcloud\.com$             #北京
+#regexp:\.(.+-)?ap-nanjing(-.+)?\.myqcloud\.com$             #南京
+#regexp:\.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com$            #上海
+#regexp:\.(.+-)?ap-guangzhou(-.+)?\.myqcloud\.com$           #广州
+#regexp:\.(.+-)?ap-chengdu(-.+)?\.myqcloud\.com$             #成都
+#regexp:\.(.+-)?ap-chongqing(-.+)?\.myqcloud\.com$           #重庆
+#regexp:\.(.+-)?ap-shenzhen(-.+)?\.myqcloud\.com$            #深圳
 
 # COS 使用到的非中国大陆的地域与可用区，参见 https://cloud.tencent.com/document/product/436/6224
 
 # tencentcos inside mainland China
+# overrided by tencentcos.cn, tencentcos.com, tencentcos.com.cn
+#regexp:\.(.+-)?ap-beijing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$   #北京
+#regexp:\.(.+-)?ap-nanjing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$   #南京
+#regexp:\.(.+-)?ap-shanghai(-.+)?\.tencentcos\.(cn|com(\.cn)?)$  #上海
+#regexp:\.(.+-)?ap-guangzhou(-.+)?\.tencentcos\.(cn|com(\.cn)?)$ #广州
+#regexp:\.(.+-)?ap-chengdu(-.+)?\.tencentcos\.(cn|com(\.cn)?)$   #成都
+#regexp:\.(.+-)?ap-chongqing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$ #重庆
+#regexp:\.(.+-)?ap-shenzhen(-.+)?\.tencentcos\.(cn|com(\.cn)?)$  #深圳
 
 # tencentcos outside mainland China
 # regexp:.+\.ap-hongkong\.tencentcos\.(cn|com(\.cn)?)$ @!cn       #中国香港
@@ -1453,10 +1543,13 @@ DOMAIN-SUFFIX,testads.api.my7v.com # @ads
 
 # include:coding
 
+
+
 # Ads/tracking
 DOMAIN-SUFFIX,badjs.weixinbridge.com # @ads
 
 # include:tencent-games
+
 
 # Roblox
 
@@ -1479,13 +1572,20 @@ DOMAIN-SUFFIX,badjs.weixinbridge.com # @ads
 # 洛克王国
 
 # include:yuewen
-# include: webnovel # # not serving for cn
+# include:webnovel # not serving for cn
+
+
+
 
 # qq.中国
 
 # 腾讯.中国
 
+
+
+
 # 腾讯枫叶
+
 
 # Ads/tracking
 DOMAIN-SUFFIX,ad.browser.qq.com # @ads
@@ -1581,6 +1681,8 @@ DOMAIN-SUFFIX,collector.xhamster.com # @ads
 # include:xiaomi-iot
 # Xiaomi IoT Services
 
+
+
 # 北京瓦力网络科技
 
 # 天星数科
@@ -1629,9 +1731,13 @@ DOMAIN-SUFFIX,adse.ximalaya.com # @ads
 # include:flickr
 # All .flickr domains
 
+
+
 # All .yahoo domains
 
+
 # Others
+
 
 # Ads/tracking
 DOMAIN-SUFFIX,ads.yahoo.com # @ads
@@ -1642,6 +1748,7 @@ DOMAIN-SUFFIX,ysm.yahoo.com # @ads
 
 DOMAIN-SUFFIX,crash2.zhihu.com # @ads
 DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com # @ads
+
 
 # Other domains for ads serving
 DOMAIN-SUFFIX,51.la
@@ -1834,4 +1941,3 @@ DOMAIN-SUFFIX,logs.chelaile.net.cn
 # 航旅纵横
 DOMAIN-SUFFIX,analytics.umetrip.com
 DOMAIN-SUFFIX,sensors.umetrip.com.cn
-

@@ -1,4 +1,4 @@
-# Time: 2026-03-19 02:36:16
+# Time: 2026-03-22 07:27:11
 # Sources:
 #    /domain-list-community/data/github
 #    /domain-list-community/data/github-copilot
@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,npmjs.org
+
 
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com
@@ -44,6 +45,3 @@ DOMAIN,github-cloud.s3.amazonaws.com
 URL-REGEX,^https?://github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com(/.*)?$
 
 # Ads/tracking
-DOMAIN-SUFFIX,collector.github.com # @ads
-DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com # @ads
-

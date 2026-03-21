@@ -1,0 +1,51 @@
+# Time: 2026-03-22 07:27:11
+# Sources:
+#    /domain-list-community/data/homebrew
+#    /domain-list-community/data/flutter
+#    /domain-list-community/data/dart
+#    /domain-list-community/data/ubuntu
+#    /domain-list-community/data/android
+#    /domain-list-community/data/java
+#    /domain-list-community/data/redis
+#    /domain-list-community/data/mongodb
+#    /domain-list-community/data/nginx
+
+DOMAIN-SUFFIX,brew.sh
+
+DOMAIN,homebrew.bintray.com
+
+DOMAIN-SUFFIX,flutter.dev
+DOMAIN-SUFFIX,flutterapp.com
+DOMAIN-SUFFIX,pub.dev
+
+DOMAIN-SUFFIX,dart.dev
+DOMAIN-SUFFIX,dartlang.org
+DOMAIN-SUFFIX,dartpad.dev
+
+DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,ubuntu.net
+DOMAIN-SUFFIX,ubuntuforums.org
+DOMAIN-SUFFIX,ubuntu-touch.io
+
+# All .android domains
+DOMAIN-SUFFIX,android
+
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,androidify.com
+
+DOMAIN,android.googlesource.com
+
+# All .java domains
+DOMAIN-SUFFIX,java
+
+DOMAIN-SUFFIX,java.com
+DOMAIN-SUFFIX,java.net
+
+DOMAIN-SUFFIX,redis.io
+DOMAIN-SUFFIX,redislabs.com
+
+DOMAIN-SUFFIX,mongodb.com
+DOMAIN-SUFFIX,mongodb.org
+
+DOMAIN-SUFFIX,nginx.com
+DOMAIN-SUFFIX,nginx.org

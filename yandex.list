@@ -1,4 +1,4 @@
-# Time: 2026-03-19 02:36:16
+# Time: 2026-03-22 07:27:11
 # Sources:
 #    /domain-list-community/data/yandex
 #    /domain-list-community/data/kinopoisk
@@ -69,6 +69,6 @@ DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
 
+
 # Weather service
 DOMAIN,yandex-pogoda.static-storage.net
-

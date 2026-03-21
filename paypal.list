@@ -1,4 +1,4 @@
-# Time: 2026-03-19 02:36:16
+# Time: 2026-03-22 07:27:11
 # Sources:
 #    /domain-list-community/data/paypal
 
@@ -206,7 +206,7 @@ DOMAIN-SUFFIX,thepaypalshop.com
 DOMAIN-SUFFIX,theshoppingexpresslane.net
 DOMAIN-SUFFIX,www-paypal.info
 DOMAIN-SUFFIX,www-paypal.us
-DOMAIN-SUFFIX,xn--bnq297cix3a.cn # 易付通.cn # @cn
+DOMAIN-SUFFIX,xn--bnq297cix3a.cn # @cn
 
 # Braintree
 DOMAIN-SUFFIX,braintreegateway.com
@@ -262,4 +262,3 @@ DOMAIN-SUFFIX,xoom.us
 DOMAIN-SUFFIX,xoomcom.com
 
 DOMAIN,venmo.s3.amazonaws.com
-
