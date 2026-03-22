@@ -1,14 +1,5 @@
-# Time: 2026-03-22 07:27:11
-# Sources:
-#    /domain-list-community/data/yandex
-#    /domain-list-community/data/kinopoisk
-
-# All .yandex domains
 DOMAIN-SUFFIX,yandex
-
-# яндекс.рф
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
-
 DOMAIN-SUFFIX,adfox.ru
 DOMAIN-SUFFIX,admetrica.ru
 DOMAIN-SUFFIX,naydex.net
@@ -63,12 +54,6 @@ DOMAIN-SUFFIX,yandexwebcache.org
 DOMAIN-SUFFIX,yastat.net
 DOMAIN-SUFFIX,yastatic-net.ru
 DOMAIN-SUFFIX,yastatic.net
-
-# Watching movies, included in the Yandex subscription
-# include:kinopoisk
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
-
-
-# Weather service
 DOMAIN,yandex-pogoda.static-storage.net

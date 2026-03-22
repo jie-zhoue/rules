@@ -1,77 +1,16 @@
-# Time: 2026-03-22 07:27:11
-# Sources:
-#    /domain-list-community/data/google
-#    /domain-list-community/data/google-gemini
-#    /domain-list-community/data/google-deepmind
-#    /domain-list-community/data/google-play
-#    /domain-list-community/data/google-registry
-#    /domain-list-community/data/google-scholar
-#    /domain-list-community/data/google-trust-services
-
-# List of all domains being operated by Google Inc.
-# include:android
-# include:blogspot
-# include:dart
-# include:fastlane
-# include:firebase
-# include:flutter
-# include:golang
-# include:google-deepmind
-# include:google-gemini
-# include:google-play
-# include:google-registry
-# include:google-scholar
-# include:google-trust-services
-# include:googlefcm
-# include:kaggle
-# include:opensourceinsights
-# include:polymer
-# include:v8
-# include:youtube
-
-# All .and domains
-# and (TLD application withdrawn by Google)
-
-# All .chrome domains
 DOMAIN-SUFFIX,chrome
-
-# All .dclk domains
 DOMAIN-SUFFIX,dclk
-
-# All .gbiz domains
 DOMAIN-SUFFIX,gbiz
-
-# All .gle domains
 DOMAIN-SUFFIX,gle
-
-# All .gmail domains
 DOMAIN-SUFFIX,gmail
-
-# All .goo domains
 DOMAIN-SUFFIX,goo
-
-# All .goog domains
 DOMAIN-SUFFIX,goog
-
-# All .google domains
 DOMAIN-SUFFIX,google
-
-# All .guge domains
 DOMAIN-SUFFIX,guge
-
-# All .hangout domains
 DOMAIN-SUFFIX,hangout
-
-# All .nexus domains
 DOMAIN-SUFFIX,nexus
-
-# All .谷歌 domains
 DOMAIN-SUFFIX,xn--flw351e
-
-# All .グーグル domains
 DOMAIN-SUFFIX,xn--qcka1pmc
-
-# Source: https://www.google.com/supported_domains
 DOMAIN-SUFFIX,google.ad
 DOMAIN-SUFFIX,google.ae
 DOMAIN-SUFFIX,google.al
@@ -97,7 +36,7 @@ DOMAIN-SUFFIX,google.ch
 DOMAIN-SUFFIX,google.ci
 DOMAIN-SUFFIX,google.cl
 DOMAIN-SUFFIX,google.cm
-DOMAIN-SUFFIX,google.cn # @cn
+DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,google.co
 DOMAIN-SUFFIX,google.co.ao
 DOMAIN-SUFFIX,google.co.bw
@@ -263,8 +202,6 @@ DOMAIN-SUFFIX,google.tt
 DOMAIN-SUFFIX,google.vg
 DOMAIN-SUFFIX,google.vu
 DOMAIN-SUFFIX,google.ws
-
-# Others
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,1ucrs.com
@@ -338,7 +275,7 @@ DOMAIN-SUFFIX,foofle.com
 DOMAIN-SUFFIX,froogle.com
 DOMAIN-SUFFIX,fuchsia.dev
 DOMAIN-SUFFIX,g-tun.com
-DOMAIN-SUFFIX,g.cn # @cn
+DOMAIN-SUFFIX,g.cn
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,g.dev
 DOMAIN-SUFFIX,g.page
@@ -348,7 +285,7 @@ DOMAIN-SUFFIX,gerritcodereview.com
 DOMAIN-SUFFIX,getbumptop.com
 DOMAIN-SUFFIX,ggoogle.com
 DOMAIN-SUFFIX,gipscorp.com
-DOMAIN-SUFFIX,gkecnapps.cn # @cn
+DOMAIN-SUFFIX,gkecnapps.cn
 DOMAIN-SUFFIX,globaledu.org
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gmodules.com
@@ -375,7 +312,7 @@ DOMAIN-SUFFIX,googleblog.com
 DOMAIN-SUFFIX,googlebot.com
 DOMAIN-SUFFIX,googlecapital.com
 DOMAIN-SUFFIX,googlecert.net
-DOMAIN-SUFFIX,googlecnapps.cn # @cn
+DOMAIN-SUFFIX,googlecnapps.cn
 DOMAIN-SUFFIX,googlecode.com
 DOMAIN-SUFFIX,googlecommerce.com
 DOMAIN-SUFFIX,googlecompare.co.uk
@@ -403,9 +340,9 @@ DOMAIN-SUFFIX,goolge.com
 DOMAIN-SUFFIX,gooogle.com
 DOMAIN-SUFFIX,gridaware.app
 DOMAIN-SUFFIX,gsrc.io
-DOMAIN-SUFFIX,gstatic.cn # @cn
+DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,gstaticcnapps.cn # @cn
+DOMAIN-SUFFIX,gstaticcnapps.cn
 DOMAIN-SUFFIX,gsuite.com
 DOMAIN-SUFFIX,gv.com
 DOMAIN-SUFFIX,gvt0.com
@@ -546,245 +483,181 @@ DOMAIN-SUFFIX,xn--gogl-0nd52e.com
 DOMAIN-SUFFIX,xn--gogl-1nd42e.com
 DOMAIN-SUFFIX,xplr.co
 DOMAIN-SUFFIX,zukunftswerkstatt.de
-
-# Google safe browsing relay
-# https://www.fastly.com/press/press-releases/google-selects-Fastly-Oblivious-HTTP-Relay-for-Privacy-Sandbox/
 DOMAIN,google-ohttp-relay-safebrowsing.fastly-edge.com
-
-# Ads/tracking
-# https://github.com/AdguardTeam/FiltersRegistry/pull/1154
-# full:fundingchoicesmessages.google.com @ads
-
-# Domains and services below are available in China mainland
-# Use in config file like this: "geosite:google@cn"
-DOMAIN-SUFFIX,gvt1-cn.com # @cn
-DOMAIN-SUFFIX,gvt2-cn.com # @cn
-DOMAIN,www.recaptcha.net # @cn
-
-# The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/google.china.conf
-# Revision: 1c2d107d4e7eaa0b192e08bb0beddde4aab247f6
-# Duplicates removed
-# Use in config file like this: "geosite:google@cn"
-DOMAIN,265.com # @cn
-DOMAIN,2mdn-cn.net # @cn
-DOMAIN,2mdn.net # @cn
-DOMAIN,admob-cn.com # @cn
-DOMAIN,adservice.google.com # @cn
-DOMAIN,app-analytics-services.com # @cn
-DOMAIN,app-measurement-cn.com # @cn
-DOMAIN,app-measurement.com # @cn
-DOMAIN,apps5.oingo.com # @cn
-DOMAIN,avail.googleflights.net # @cn
-DOMAIN,beacons.gcp.gvt2.com # @cn
-DOMAIN,beacons.gvt2.com # @cn
-DOMAIN,beacons2.gvt2.com # @cn
-DOMAIN,beacons3.gvt2.com # @cn
-DOMAIN,c.admob.com # @cn
-DOMAIN,c.android.clients.google.com # @cn
-DOMAIN,cache-management-prod.google.com # @cn
-DOMAIN,cache.pack.google.com # @cn
-DOMAIN,checkin.gstatic.com # @cn
-DOMAIN,clickserve.cc-dt.com # @cn
-DOMAIN,clickserve.dartsearch.net # @cn
-DOMAIN,clickserver.googleads.com # @cn
-DOMAIN,clientservices.googleapis.com # @cn
-DOMAIN,cn.widevine.com # @cn
-DOMAIN,cnappinstall.googleadapis.com # @cn
-DOMAIN,connectivitycheck.gstatic.com # @cn
-DOMAIN,content.googleadapis.com # @cn
-DOMAIN,crashlyticsreports-pa.googleapis.com # @cn
-DOMAIN,csi.gstatic.com # @cn
-DOMAIN,dartsearch-cn.net # @cn
-DOMAIN,dg-meta.video.google.com # @cn
-DOMAIN,dl.google.com # @cn
-DOMAIN,dl.l.google.com # @cn
-DOMAIN,doubleclick-cn.net # @cn
-DOMAIN,doubleclick.net # @cn
-DOMAIN,download.mlcc.google.com # @cn
-DOMAIN,download.qatp1.net # @cn
-DOMAIN,download.tensorflow.google.com # @cn
-DOMAIN,emmapplecodevice.googleapis.com # @cn
-DOMAIN,fontfiles.googleapis.com # @cn
-DOMAIN,fonts.googleapis.com # @cn
-DOMAIN,fonts.gstatic.com # @cn
-DOMAIN,g0.gstatic.com # @cn
-DOMAIN,g1.gstatic.com # @cn
-DOMAIN,g2.gstatic.com # @cn
-DOMAIN,g3.gstatic.com # @cn
-DOMAIN,go.corp.google.com # @cn
-DOMAIN,gonglchuangl.net # @cn
-DOMAIN,gongyichuangyi.net # @cn
-DOMAIN,google-analytics-cn.com # @cn
-DOMAIN,google-analytics.com # @cn
-DOMAIN,googleadservices-cn.com # @cn
-DOMAIN,googleadservices.com # @cn
-DOMAIN,googleanalytics.com # @cn
-DOMAIN,googleapis-cn.com # @cn
-DOMAIN,googleapps-cn.com # @cn
-DOMAIN,googleflights-cn.net # @cn
-DOMAIN,googleoptimize-cn.com # @cn
-DOMAIN,googleoptimize.com # @cn
-DOMAIN,googlesyndication-cn.com # @cn
-DOMAIN,googlesyndication.com # @cn
-DOMAIN,googletagmanager-cn.com # @cn
-DOMAIN,googletagmanager.com # @cn
-DOMAIN,googletagservices-cn.com # @cn
-DOMAIN,googletagservices.com # @cn
-DOMAIN,googletraveladservices-cn.com # @cn
-DOMAIN,googletraveladservices.com # @cn
-DOMAIN,googlevads-cn.com # @cn
-DOMAIN,gstatic-cn.com # @cn
-DOMAIN,gstaticadssl.l.google.com # @cn
-DOMAIN,gtm.oasisfeng.com # @cn
-DOMAIN,imasdk.googleapis.com # @cn
-DOMAIN,l2-uberproxy.corp.google.com # @cn
-DOMAIN,logger-dev.corp.google.com # @cn
-DOMAIN,logger.corp.google.com # @cn
-DOMAIN,login.corp.google.com # @cn
-DOMAIN,monitoring.qpdp1.net # @cn
-DOMAIN,pagead-googlehosted.l.google.com # @cn
-DOMAIN,performanceparameters.googleapis.com # @cn
-DOMAIN,prod-controlbe.floonet.goog # @cn
-DOMAIN,prod-databe.floonet.goog # @cn
-DOMAIN,prod.databe.floonet.goog # @cn
-DOMAIN,proxyconfig.corp.google.com # @cn
-DOMAIN,qagpublic.qatp1.net # @cn
-DOMAIN,qgadmin.qcpp1.net # @cn
-DOMAIN,qiao-cn.com # @cn
-DOMAIN,qpx.googleflights.net # @cn
-DOMAIN,qualysapi.qatp1.net # @cn
-DOMAIN,qualysguard.qpdp1.net # @cn
-DOMAIN,r.cert.corp.google.com # @cn
-DOMAIN,rapture-prod.corp.google.com # @cn
-DOMAIN,recaptcha-cn.net # @cn
-DOMAIN,recaptcha.net # @cn
-DOMAIN,redirector.bdn.dev # @cn
-DOMAIN,redirector.c.chat.google.com # @cn
-DOMAIN,redirector.c.mail.google.com # @cn
-DOMAIN,redirector.c.pack.google.com # @cn
-DOMAIN,redirector.c.youtubeeducation.com # @cn
-DOMAIN,redirector.gcpcdn.gvt1.com # @cn
-DOMAIN,redirector.gvt1.com # @cn
-DOMAIN,redirector.offline-maps.gvt1.com # @cn
-DOMAIN,redirector.snap.gvt1.com # @cn
-DOMAIN,redirector.xn--ngstr-lra8j.com # @cn
-DOMAIN,safebrowsing-cache.google.com # @cn
-DOMAIN,safebrowsing.googleapis.com # @cn
-DOMAIN,scanservice1.qcpp1.net # @cn
-DOMAIN,service.urchin.com # @cn
-DOMAIN,ssl-google-analytics.l.google.com # @cn
-DOMAIN,ssl.gstatic.com # @cn
-DOMAIN,sslredirect.corp.google.com # @cn
-DOMAIN,staging-controlbe.floonet.goog # @cn
-DOMAIN,staging-databe.floonet.goog # @cn
-DOMAIN,staging.databe.floonet.goog # @cn
-DOMAIN,streaming-uberproxy-rotation.corp.google.com # @cn
-DOMAIN,streaming-uberproxy.corp.google.com # @cn
-DOMAIN,sup-ssh-relay.corp.google.com # @cn
-DOMAIN,sup-ssh-relay2.corp.google.com # @cn
-DOMAIN,sup.corp.google.com # @cn
-DOMAIN,sup.l.google.com # @cn
-DOMAIN,tac.googleapis.com # @cn
-DOMAIN,test.gbugs-qa.chromium.org # @cn
-DOMAIN,tools.google.com # @cn
-DOMAIN,tools.l.google.com # @cn
-DOMAIN,uberproxy-debug4.corp.google.com # @cn
-DOMAIN,uberproxy.corp.google.com # @cn
-DOMAIN,uberproxy6.corp.google.com # @cn
-DOMAIN,update.crashlytics.com # @cn
-DOMAIN,update.googleapis.com # @cn
-DOMAIN,wear.googleapis.com # @cn
-DOMAIN,www-google-analytics.l.google.com # @cn
-DOMAIN,www-googletagmanager.l.google.com # @cn
-DOMAIN,www.destinationurl.com # @cn
-DOMAIN,www.gstatic.com # @cn
-DOMAIN,www.pxcc.com # @cn
-DOMAIN,xn--flw351e.com # @cn
-
-# This list is for backward compatibility
-
-# include:google-deepmind
-# Google DeepMind
+DOMAIN-SUFFIX,gvt1-cn.com
+DOMAIN-SUFFIX,gvt2-cn.com
+DOMAIN,www.recaptcha.net
+DOMAIN,265.com
+DOMAIN,2mdn-cn.net
+DOMAIN,2mdn.net
+DOMAIN,admob-cn.com
+DOMAIN,adservice.google.com
+DOMAIN,app-analytics-services.com
+DOMAIN,app-measurement-cn.com
+DOMAIN,app-measurement.com
+DOMAIN,apps5.oingo.com
+DOMAIN,avail.googleflights.net
+DOMAIN,beacons.gcp.gvt2.com
+DOMAIN,beacons.gvt2.com
+DOMAIN,beacons2.gvt2.com
+DOMAIN,beacons3.gvt2.com
+DOMAIN,c.admob.com
+DOMAIN,c.android.clients.google.com
+DOMAIN,cache-management-prod.google.com
+DOMAIN,cache.pack.google.com
+DOMAIN,checkin.gstatic.com
+DOMAIN,clickserve.cc-dt.com
+DOMAIN,clickserve.dartsearch.net
+DOMAIN,clickserver.googleads.com
+DOMAIN,clientservices.googleapis.com
+DOMAIN,cn.widevine.com
+DOMAIN,cnappinstall.googleadapis.com
+DOMAIN,connectivitycheck.gstatic.com
+DOMAIN,content.googleadapis.com
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,csi.gstatic.com
+DOMAIN,dartsearch-cn.net
+DOMAIN,dg-meta.video.google.com
+DOMAIN,dl.google.com
+DOMAIN,dl.l.google.com
+DOMAIN,doubleclick-cn.net
+DOMAIN,doubleclick.net
+DOMAIN,download.mlcc.google.com
+DOMAIN,download.qatp1.net
+DOMAIN,download.tensorflow.google.com
+DOMAIN,emmapplecodevice.googleapis.com
+DOMAIN,fontfiles.googleapis.com
+DOMAIN,fonts.googleapis.com
+DOMAIN,fonts.gstatic.com
+DOMAIN,g0.gstatic.com
+DOMAIN,g1.gstatic.com
+DOMAIN,g2.gstatic.com
+DOMAIN,g3.gstatic.com
+DOMAIN,go.corp.google.com
+DOMAIN,gonglchuangl.net
+DOMAIN,gongyichuangyi.net
+DOMAIN,google-analytics-cn.com
+DOMAIN,google-analytics.com
+DOMAIN,googleadservices-cn.com
+DOMAIN,googleadservices.com
+DOMAIN,googleanalytics.com
+DOMAIN,googleapis-cn.com
+DOMAIN,googleapps-cn.com
+DOMAIN,googleflights-cn.net
+DOMAIN,googleoptimize-cn.com
+DOMAIN,googleoptimize.com
+DOMAIN,googlesyndication-cn.com
+DOMAIN,googlesyndication.com
+DOMAIN,googletagmanager-cn.com
+DOMAIN,googletagmanager.com
+DOMAIN,googletagservices-cn.com
+DOMAIN,googletagservices.com
+DOMAIN,googletraveladservices-cn.com
+DOMAIN,googletraveladservices.com
+DOMAIN,googlevads-cn.com
+DOMAIN,gstatic-cn.com
+DOMAIN,gstaticadssl.l.google.com
+DOMAIN,gtm.oasisfeng.com
+DOMAIN,imasdk.googleapis.com
+DOMAIN,l2-uberproxy.corp.google.com
+DOMAIN,logger-dev.corp.google.com
+DOMAIN,logger.corp.google.com
+DOMAIN,login.corp.google.com
+DOMAIN,monitoring.qpdp1.net
+DOMAIN,pagead-googlehosted.l.google.com
+DOMAIN,performanceparameters.googleapis.com
+DOMAIN,prod-controlbe.floonet.goog
+DOMAIN,prod-databe.floonet.goog
+DOMAIN,prod.databe.floonet.goog
+DOMAIN,proxyconfig.corp.google.com
+DOMAIN,qagpublic.qatp1.net
+DOMAIN,qgadmin.qcpp1.net
+DOMAIN,qiao-cn.com
+DOMAIN,qpx.googleflights.net
+DOMAIN,qualysapi.qatp1.net
+DOMAIN,qualysguard.qpdp1.net
+DOMAIN,r.cert.corp.google.com
+DOMAIN,rapture-prod.corp.google.com
+DOMAIN,recaptcha-cn.net
+DOMAIN,recaptcha.net
+DOMAIN,redirector.bdn.dev
+DOMAIN,redirector.c.chat.google.com
+DOMAIN,redirector.c.mail.google.com
+DOMAIN,redirector.c.pack.google.com
+DOMAIN,redirector.c.youtubeeducation.com
+DOMAIN,redirector.gcpcdn.gvt1.com
+DOMAIN,redirector.gvt1.com
+DOMAIN,redirector.offline-maps.gvt1.com
+DOMAIN,redirector.snap.gvt1.com
+DOMAIN,redirector.xn--ngstr-lra8j.com
+DOMAIN,safebrowsing-cache.google.com
+DOMAIN,safebrowsing.googleapis.com
+DOMAIN,scanservice1.qcpp1.net
+DOMAIN,service.urchin.com
+DOMAIN,ssl-google-analytics.l.google.com
+DOMAIN,ssl.gstatic.com
+DOMAIN,sslredirect.corp.google.com
+DOMAIN,staging-controlbe.floonet.goog
+DOMAIN,staging-databe.floonet.goog
+DOMAIN,staging.databe.floonet.goog
+DOMAIN,streaming-uberproxy-rotation.corp.google.com
+DOMAIN,streaming-uberproxy.corp.google.com
+DOMAIN,sup-ssh-relay.corp.google.com
+DOMAIN,sup-ssh-relay2.corp.google.com
+DOMAIN,sup.corp.google.com
+DOMAIN,sup.l.google.com
+DOMAIN,tac.googleapis.com
+DOMAIN,test.gbugs-qa.chromium.org
+DOMAIN,tools.google.com
+DOMAIN,tools.l.google.com
+DOMAIN,uberproxy-debug4.corp.google.com
+DOMAIN,uberproxy.corp.google.com
+DOMAIN,uberproxy6.corp.google.com
+DOMAIN,update.crashlytics.com
+DOMAIN,update.googleapis.com
+DOMAIN,wear.googleapis.com
+DOMAIN,www-google-analytics.l.google.com
+DOMAIN,www-googletagmanager.l.google.com
+DOMAIN,www.destinationurl.com
+DOMAIN,www.gstatic.com
+DOMAIN,www.pxcc.com
+DOMAIN,xn--flw351e.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
-
-# Google Generative Language API
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
-
-# Google AI Studio
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,makersuite.google.com
-
 DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,gemini.google.com
-
-# Gemini Code Assist
-# https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
 DOMAIN,cloudaicompanion.googleapis.com
 DOMAIN,cloudcode-pa.googleapis.com
 DOMAIN,daily-cloudcode-pa.googleapis.com
-
-# NotebookLM
 DOMAIN,notebooklm-pa.googleapis.com
 DOMAIN,notebooklm.googleapis.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
-
-# Jules
 DOMAIN-SUFFIX,jules.google
 DOMAIN-SUFFIX,jules.google.com
-
-# Google AI Labs
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,labs.google.com
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
-
-# Android Studio Gemini Code Assist
 DOMAIN-SUFFIX,aida.googleapis.com
-
-# Opal
 DOMAIN-SUFFIX,opal.google
 DOMAIN-SUFFIX,opal.google.com
-
-# Antigravity
 DOMAIN,antigravity-pa.googleapis.com
 DOMAIN,antigravity.googleapis.com
 DOMAIN-SUFFIX,antigravity.google
 DOMAIN-SUFFIX,antigravity-unleash.goog
-
-
-# Google DeepMind
-
-# Google Generative Language API
-
-# Google AI Studio
-
-
-# Gemini Code Assist
-# https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
-
-# NotebookLM
-
-# Jules
-
-# Google AI Labs
-
-# Android Studio Gemini Code Assist
-
-# Opal
-
-# Antigravity
-
 DOMAIN-SUFFIX,googleplay.com
 DOMAIN-SUFFIX,play-fe.googleapis.com
 DOMAIN-SUFFIX,play-games.googleusercontent.com
@@ -792,20 +665,12 @@ DOMAIN-SUFFIX,play-lh.googleusercontent.com
 DOMAIN-SUFFIX,play.google.com
 DOMAIN-SUFFIX,play.googleapis.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-
-# if connect to services.googleapis.cn directly,
-# then these domains will be used.
-# 北京 (2x3)、上海 (ni5)、广州 (j5o)
-URL-REGEX,^https?://r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)[A-Za-z0-9_]{5}\.xn--ngstr-lra8j\.com(/.*)?$ # @cn
-# the same but DNS pollution in China mainland.
-URL-REGEX,^https?://r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)[A-Za-z0-9_]{5}\.googlevideo\.com(/.*)?$ # @cn
-
-DOMAIN,redirector.c.play.google.com # @cn
-
+URL-REGEX,^https?://r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)[A-Za-z0-9_]{5}\.xn--ngstr-lra8j\.com(/.*)?$
+URL-REGEX,^https?://r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)[A-Za-z0-9_]{5}\.googlevideo\.com(/.*)?$
+DOMAIN,redirector.c.play.google.com
 DOMAIN-SUFFIX,charlestonroadregistry.com
 DOMAIN-SUFFIX,crr.com
 DOMAIN-SUFFIX,registry.google
-
 DOMAIN-SUFFIX,get.app
 DOMAIN-SUFFIX,get.dev
 DOMAIN-SUFFIX,get.how
@@ -816,7 +681,6 @@ DOMAIN-SUFFIX,hey.boo
 DOMAIN-SUFFIX,iam.soy
 DOMAIN-SUFFIX,new.day
 DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
-
 DOMAIN,scholar.google.ae
 DOMAIN,scholar.google.at
 DOMAIN,scholar.google.be
@@ -893,24 +757,15 @@ DOMAIN,scholar.google.si
 DOMAIN,scholar.google.sk
 DOMAIN,scholar.googleusercontent.com
 DOMAIN,scholar.l.google.com
-
 DOMAIN-SUFFIX,pki.goog
-
-DOMAIN,pki-goog.l.google.com # @cn
-
-DOMAIN,c.pki.goog # @cn
-DOMAIN,i.pki.goog # @cn
-DOMAIN,o.pki.goog # @cn
-
-# Google Public CA API Endpoint
+DOMAIN,pki-goog.l.google.com
+DOMAIN,c.pki.goog
+DOMAIN,i.pki.goog
+DOMAIN,o.pki.goog
 DOMAIN,publicca.googleapis.com
 DOMAIN,preprod-publicca.googleapis.com
-
-# Deprecated earlier
 DOMAIN,clients1.google.com
 DOMAIN,pki.google.com
-
-# Deprecated recently
-DOMAIN,crl.pki.goog # @cn
-DOMAIN,crls.pki.goog # @cn
-DOMAIN,ocsp.pki.goog # @cn
+DOMAIN,crl.pki.goog
+DOMAIN,crls.pki.goog
+DOMAIN,ocsp.pki.goog
