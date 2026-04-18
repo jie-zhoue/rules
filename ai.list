@@ -23,6 +23,10 @@ DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,elevenlabs.com
 DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,envato-static.com
+DOMAIN-SUFFIX,envato.com
+DOMAIN-SUFFIX,envatousercontent.com
+DOMAIN-SUFFIX,themeforest.net
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
@@ -60,6 +64,7 @@ DOMAIN,antigravity-pa.googleapis.com
 DOMAIN,antigravity.googleapis.com
 DOMAIN-SUFFIX,antigravity.google
 DOMAIN-SUFFIX,antigravity-unleash.goog
+DOMAIN-SUFFIX,stitch.withgoogle.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,hf.space
