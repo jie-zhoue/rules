@@ -48,6 +48,7 @@ DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,gemini.gstatic.com
 DOMAIN,cloudaicompanion.googleapis.com
 DOMAIN,cloudcode-pa.googleapis.com
 DOMAIN,daily-cloudcode-pa.googleapis.com
@@ -119,6 +120,7 @@ DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,agentclientprotocol.com
 DOMAIN-SUFFIX,anythingllm.com
+DOMAIN-SUFFIX,arena.ai
 DOMAIN-SUFFIX,chutes.ai
 DOMAIN-SUFFIX,clawhub.ai
 DOMAIN-SUFFIX,copilot.microsoft.com
@@ -135,6 +137,7 @@ DOMAIN-SUFFIX,langchain.com
 DOMAIN-SUFFIX,lmstudio.ai
 DOMAIN-SUFFIX,lovart.ai
 DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,minimax.io
 DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,mozilla.ai
