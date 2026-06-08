@@ -102,6 +102,7 @@ DOMAIN-SUFFIX,api-adservices.apple.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,iad.apple.com
 DOMAIN-SUFFIX,qwapi.com
+DOMAIN,stats.avito.ru
 DOMAIN-SUFFIX,syh.zybang.com
 DOMAIN-SUFFIX,adscdn.baidu.com
 DOMAIN-SUFFIX,adx.xiaodutv.com
@@ -321,9 +322,6 @@ DOMAIN-SUFFIX,e.kuaishou.cn
 DOMAIN-SUFFIX,e.kuaishou.com
 DOMAIN,log-sdk.gifshow.com
 DOMAIN,wlog.kuaishou.com
-DOMAIN-SUFFIX,ads.service.kugou.com
-DOMAIN-SUFFIX,adserviceretry.kglink.cn
-DOMAIN-SUFFIX,adserviceretry.kugou.com
 DOMAIN-SUFFIX,apple.www.letv.com
 DOMAIN-SUFFIX,ark.letv.com
 DOMAIN-SUFFIX,dc.letv.com
@@ -427,6 +425,10 @@ DOMAIN,api.mindbox.cloud
 DOMAIN,api.mindbox.ru
 DOMAIN,sentry.mindbox.ru
 DOMAIN,sentry.popmechanic.ru
+DOMAIN,ads-img.mozilla.org
+DOMAIN,ads.mozilla.org
+DOMAIN,incoming.telemetry.mozilla.org
+DOMAIN,incoming-telemetry.thunderbird.net
 DOMAIN-SUFFIX,a.mts.ru
 DOMAIN-SUFFIX,obs.mts.ru
 DOMAIN-SUFFIX,a.youdao.com
@@ -547,10 +549,22 @@ DOMAIN-SUFFIX,euads-o.api.leiniao.com
 DOMAIN-SUFFIX,hwads-t.api.my7v.com
 DOMAIN-SUFFIX,testads.api.my7v.com
 DOMAIN-SUFFIX,badjs.weixinbridge.com
+DOMAIN-SUFFIX,ads.service.kugou.com
+DOMAIN-SUFFIX,adserviceretry.kglink.cn
+DOMAIN-SUFFIX,adserviceretry.kugou.com
+DOMAIN-SUFFIX,adbehavior.ximalaya.com
+DOMAIN-SUFFIX,adse.wsa.ximalaya.com
+DOMAIN-SUFFIX,adse.ximalaya.com
+DOMAIN-SUFFIX,ad.tencentmusic.com
+DOMAIN-SUFFIX,adstats.tencentmusic.com
+DOMAIN-SUFFIX,monitor.music.qq.com
+DOMAIN-SUFFIX,report.tencentmusic.com
+DOMAIN-SUFFIX,stat.y.qq.com
+DOMAIN-SUFFIX,tmead.y.qq.com
+DOMAIN-SUFFIX,tmeadcomm.y.qq.com
 DOMAIN-SUFFIX,ad.browser.qq.com
 DOMAIN-SUFFIX,ad.qq.com
 DOMAIN-SUFFIX,ad.qun.qq.com
-DOMAIN-SUFFIX,ad.tencentmusic.com
 DOMAIN-SUFFIX,ad.weixin.qq.com
 DOMAIN-SUFFIX,adfilter.imtt.qq.com
 DOMAIN-SUFFIX,adnet.qq.com
@@ -563,7 +577,6 @@ DOMAIN-SUFFIX,adslvfile.qq.com
 DOMAIN-SUFFIX,adslvseed.qq.com
 DOMAIN-SUFFIX,adsmind.apdcdn.tc.qq.com
 DOMAIN-SUFFIX,adsqqclick.qq.com
-DOMAIN-SUFFIX,adstats.tencentmusic.com
 DOMAIN-SUFFIX,adstestview.qq.com
 DOMAIN-SUFFIX,adsview.qq.com
 DOMAIN-SUFFIX,adsview2.qq.com
@@ -581,7 +594,6 @@ DOMAIN-SUFFIX,htrace.wetvinfo.com
 DOMAIN-SUFFIX,isdspeed.qq.com
 DOMAIN-SUFFIX,log.tbs.qq.com
 DOMAIN-SUFFIX,mdt.qq.com
-DOMAIN-SUFFIX,monitor.music.qq.com
 DOMAIN-SUFFIX,monitor.uu.qq.com
 DOMAIN-SUFFIX,mpush.qq.com
 DOMAIN-SUFFIX,mtrace.qq.com
@@ -591,14 +603,10 @@ DOMAIN-SUFFIX,pmir.3g.qq.com
 DOMAIN-SUFFIX,push.qq.com
 DOMAIN-SUFFIX,qqdata.ab.qq.com
 DOMAIN-SUFFIX,report.qqweb.qq.com
-DOMAIN-SUFFIX,report.tencentmusic.com
 DOMAIN-SUFFIX,rmonitor.qq.com
 DOMAIN-SUFFIX,sngmta.qq.com
-DOMAIN-SUFFIX,stat.y.qq.com
 DOMAIN-SUFFIX,tajs.qq.com
 DOMAIN-SUFFIX,tcss.qq.com
-DOMAIN-SUFFIX,tmead.y.qq.com
-DOMAIN-SUFFIX,tmeadcomm.y.qq.com
 DOMAIN-SUFFIX,tpstelemetry.tencent.com
 DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,ugdtimg.com
@@ -652,9 +660,6 @@ DOMAIN-SUFFIX,tjqonline.cn
 DOMAIN-SUFFIX,tracker.ai.xiaomi.com
 DOMAIN-SUFFIX,tracker.xiaomixiaoai.com
 DOMAIN-SUFFIX,tracking.miui.com
-DOMAIN-SUFFIX,adbehavior.ximalaya.com
-DOMAIN-SUFFIX,adse.wsa.ximalaya.com
-DOMAIN-SUFFIX,adse.ximalaya.com
 DOMAIN-SUFFIX,ads.yahoo.com
 DOMAIN-SUFFIX,gemini.yahoo.com
 DOMAIN-SUFFIX,ysm.yahoo.com
@@ -694,6 +699,7 @@ DOMAIN,clck.yandex.com
 DOMAIN,clck.yandex.net
 DOMAIN,clck.yango.com
 DOMAIN,informer.yandex.ru
+DOMAIN,log.strm.yandex.ru
 DOMAIN,mc.yandex.com
 DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com
@@ -771,6 +777,7 @@ DOMAIN-SUFFIX,click.ali213.net
 DOMAIN-SUFFIX,pbmp.ali213.net
 DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,applvn.com
+DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN,pinggai0.caixin.com
 DOMAIN,pinggai1.caixin.com
 DOMAIN,pinggai2.caixin.com
@@ -801,6 +808,7 @@ DOMAIN-SUFFIX,g1.tagtic.cn
 DOMAIN-SUFFIX,xy-log.tagtic.cn
 DOMAIN-SUFFIX,ad.unimhk.com
 DOMAIN-SUFFIX,das-rpt-log.ucloud.cn
+DOMAIN,logs.ads.vungle.com
 DOMAIN-SUFFIX,telecome.cn
 DOMAIN-SUFFIX,unioncom.cc
 DOMAIN-SUFFIX,yfanads.cn
