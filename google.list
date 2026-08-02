@@ -3,7 +3,6 @@ DOMAIN-SUFFIX,dclk
 DOMAIN-SUFFIX,gbiz
 DOMAIN-SUFFIX,gle
 DOMAIN-SUFFIX,gmail
-DOMAIN-SUFFIX,goo
 DOMAIN-SUFFIX,goog
 DOMAIN-SUFFIX,google
 DOMAIN-SUFFIX,guge
@@ -206,6 +205,7 @@ DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,1ucrs.com
 DOMAIN-SUFFIX,466453.com
+DOMAIN-SUFFIX,actifio.com
 DOMAIN-SUFFIX,adgoogle.net
 DOMAIN-SUFFIX,admeld.com
 DOMAIN-SUFFIX,angulardart.org
@@ -240,6 +240,7 @@ DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,chromebook.com
 DOMAIN-SUFFIX,chromecast.com
 DOMAIN-SUFFIX,chromeos.dev
+DOMAIN-SUFFIX,chromestatus.com
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,chronicle.security
 DOMAIN-SUFFIX,chroniclesec.com
@@ -388,6 +389,7 @@ DOMAIN-SUFFIX,onefifteen.org
 DOMAIN-SUFFIX,oneworldmanystories.com
 DOMAIN-SUFFIX,openthread.io
 DOMAIN-SUFFIX,openweave.io
+DOMAIN-SUFFIX,openxla.org
 DOMAIN-SUFFIX,orbitera.com
 DOMAIN-SUFFIX,page.link
 DOMAIN-SUFFIX,pagespeedmobilizer.com
@@ -481,10 +483,13 @@ DOMAIN-SUFFIX,xn--gogl-1nd42e.com
 DOMAIN-SUFFIX,xplr.co
 DOMAIN-SUFFIX,zukunftswerkstatt.de
 DOMAIN,google-ohttp-relay-safebrowsing.fastly-edge.com
+DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,gvt1-cn.com
 DOMAIN-SUFFIX,gvt2-cn.com
+DOMAIN,recaptcha-cn.net
+DOMAIN,recaptcha.net
+DOMAIN,www.recaptcha-cn.net
 DOMAIN,www.recaptcha.net
-DOMAIN,265.com
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
 DOMAIN,admob-cn.com
@@ -509,7 +514,6 @@ DOMAIN,clickserver.googleads.com
 DOMAIN,clientservices.googleapis.com
 DOMAIN,cn.widevine.com
 DOMAIN,connectivitycheck.gstatic.com
-DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,csi.gstatic.com
 DOMAIN,dartsearch-cn.net
 DOMAIN,dg-meta.video.google.com
@@ -558,8 +562,6 @@ DOMAIN,prod-databe.floonet.goog
 DOMAIN,prod.databe.floonet.goog
 DOMAIN,qiao-cn.com
 DOMAIN,qpx.googleflights.net
-DOMAIN,recaptcha-cn.net
-DOMAIN,recaptcha.net
 DOMAIN,redirector.bdn.dev
 DOMAIN,redirector.c.chat.google.com
 DOMAIN,redirector.c.mail.google.com
@@ -580,7 +582,6 @@ DOMAIN,staging-databe.floonet.goog
 DOMAIN,staging.databe.floonet.goog
 DOMAIN,tac.googleapis.com
 DOMAIN,tools.google.com
-DOMAIN,update.crashlytics.com
 DOMAIN,update.googleapis.com
 DOMAIN,wear.googleapis.com
 DOMAIN,www-google-analytics.l.google.com
@@ -611,12 +612,14 @@ DOMAIN,cloudcode-pa.googleapis.com
 DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN,notebooklm-pa.googleapis.com
 DOMAIN,notebooklm.googleapis.com
+DOMAIN-SUFFIX,notebook.google.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,jules.google
 DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,labs.google.com
+DOMAIN-SUFFIX,flow.google
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 DOMAIN-SUFFIX,aicode.googleapis.com
 DOMAIN-SUFFIX,aida.googleapis.com

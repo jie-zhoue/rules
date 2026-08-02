@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,steam-api.com
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamconnecttest.com
 DOMAIN-SUFFIX,steamdeck.com
 DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,steampowered.com
@@ -12,7 +13,9 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,underlords.com
+DOMAIN-SUFFIX,valve.net
 DOMAIN-SUFFIX,valvesoftware.com
+DOMAIN-SUFFIX,dota2.com
 DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
 DOMAIN,steamcommunity-a.akamaihd.net.edgesuite.net
 DOMAIN-SUFFIX,steam.apac.qtlglb.com
@@ -37,7 +40,10 @@ DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,steamvideo-a.akamaihd.net
 DOMAIN,steamcloudsweden.blob.core.windows.net
+DOMAIN,steamugcquincy.blob.core.windows.net
+DOMAIN-SUFFIX,csgo.com.cn
 DOMAIN-SUFFIX,csgo.wmsj.cn
+DOMAIN-SUFFIX,dota2.com.cn
 DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN-SUFFIX,wmsjsteam.com
 DOMAIN-SUFFIX,client-update.queniuqe.com
